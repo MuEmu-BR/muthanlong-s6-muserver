@@ -1,0 +1,11 @@
+//[1] - ItemID (only 15 group)
+//[2] - MonsterID
+//[3] - MonsterCount
+//[4] - Time
+//[5] - Renewal
+//[6] - AllowParty
+//[7] - AllowGuild
+
+2570	700 	1	300	 0	1	1
+
+end

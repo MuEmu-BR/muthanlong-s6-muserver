@@ -1,0 +1,4 @@
+//Index   Npc	     NpcMap	NpcX	NpcY	MoveMap	   MoveX	MoveY	MinLv	MaxLv	MinReset	MaxReset	MinMReset	MaxMReset	AccountLevel	PKMove	Comment
+0         791        0          114     132     92         61           201     250     *       *               *               *               *               *               *       // Sir Lesnar Arka War
+1         723        84         112     105     84         21           235     250     *       *               *               *               *               *               *       // The Nixie's Spirit
+end

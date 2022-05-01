@@ -1,0 +1,29 @@
+<ChienTruongCo>
+	<!-- Bật/Tắt WCoinBuy (Số tiền bị trừ mỗi lần mua lượt) MaxBuyDay (Giới hạn tối đa số lượt mua)-->
+	<BatTat>
+	    <Setting Enabled="1"
+		TimeBuyMin="30" 
+		WCoinBuy="50000"
+		MaxBuyDay="3"
+		/>
+	</BatTat>
+    <!-- Vị trí NPC Chiến Trường Cổ -->
+	<NPCTalk>
+        <NPC Class="380" Map="0" X="145" Y="139" />
+	</NPCTalk>
+	<!-- Cấu Hình Thưởng Điểm -->
+	<PointReward>
+	    <Config PointKillMonter = "0" PartyKillPoint="0" MSG="[Chiến Trường Cổ]Bạn vừa được thưởng %d WCoinC"/>
+	</PointReward>
+	<!-- Cấu Hình Thưởng Item 
+	IndexType = Index trong EventBagManager.txt
+	-->
+	<ItemReward>
+	    <Config SLQuaiYeuCau = "600" IndexType="129" MSG="[Chiến Trường Cổ]Bạn vừa nhận được thưởng Item"/>
+	</ItemReward>	
+	<!-- Cập nhập về 15 phút sau khi 23h59 phút-->
+	<CTCTimeReset>
+	    <Config CTCTimeReset = "900" />
+	</CTCTimeReset>	
+	
+</ChienTruongCo>

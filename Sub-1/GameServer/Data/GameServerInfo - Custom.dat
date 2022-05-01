@@ -1,0 +1,229 @@
+[GameServerInfo]
+;==================================================
+; Downgrade 97 Settings
+;==================================================
+DisabledSD = 0
+
+;==================================================
+; Announce Chaos Mix Settings
+;==================================================
+AnnounceChaosMix10 = 1 ;Bật Thông Báo Thành Công Qoay Item +10
+AnnounceChaosMix11 = 1 ;Bật Thông Báo Thành Công Qoay Item +11
+AnnounceChaosMix12 = 1 ;Bật Thông Báo Thành Công Qoay Item +12
+AnnounceChaosMix13 = 1 ;Bật Thông Báo Thành Công Qoay Item +13
+AnnounceChaosMix14 = 1 ;Bật Thông Báo Thành Công Qoay Item +14
+AnnounceChaosMix15 = 1 ;Bật Thông Báo Thành Công Qoay Item +15
+
+AnnounceChaosMix10Text = Chúc mừng %s đã ép thành công %s +10
+AnnounceChaosMix11Text = Chúc mừng %s đã ép thành công %s +11
+AnnounceChaosMix12Text = Chúc mừng %s đã ép thành công %s +12
+AnnounceChaosMix13Text = Chúc mừng %s đã ép thành công %s +13
+AnnounceChaosMix14Text = Chúc mừng %s đã ép thành công %s +14
+AnnounceChaosMix15Text = Chúc mừng %s đã ép thành công %s +15
+
+;==================================================
+; Custom Arena Settings	;Cài đặt đấu trường tùy chỉnh
+;==================================================
+CustomArenaSwitch = 1
+CustomArenaVictimScoreDecrease = 10
+CustomArenaKillerScoreIncrease = 100
+CustomArenaText1 = [%s] sẽ đóng cửa %d Phút(s)
+CustomArenaText2 = [%s] đóng cửa
+CustomArenaText3 = [%s] sẽ bắt đầu trong %d Phút(s)
+CustomArenaText4 = [%s] Bắt Đầu !
+CustomArenaText5 = [%s] Kết Thúc !
+CustomArenaText6 = [%s] %s là người chiến thắng
+CustomArenaText7 = [%s] Bạn đã ở vị trí %d với %d điểm
+CustomArenaText8 = Bạn không thể vào đấu trường
+CustomArenaText9 = Đấu trường này hiện không mở
+CustomArenaText10 = Vượt quá số lượng người chơi tối đa
+CustomArenaText11 = Bạn phải đạt ít nhất Cấp %d
+CustomArenaText12 = Bạn phải đạt tối đa Cấp %d
+CustomArenaText13 = Bạn phải có ít nhất Master Level %d
+CustomArenaText14 = Bạn phải ở tối đa Master Master %d
+CustomArenaText15 = Bạn phải có ít nhất %d Resets
+CustomArenaText16 = Bạn cần có tối đa %d Resets
+CustomArenaText17 = Bạn phải có ít nhất %d Master Resets
+CustomArenaText18 = Bạn cần có tối đa %d Master Resets
+CustomArenaText19 = Lớp học của anh không được phép trong đấu trường
+; Dành cho toàn bộ sự kiện
+CustomArenaText20 = [%s]Chiến thắng nhận được [%d] WCoinC!
+CustomArenaWCoinC = 5000
+
+;==================================================
+; Custom Event Drop Settings
+;==================================================
+CustomEventDropSwitch = 0
+CustomEventDropText1 = [%s] Sẽ Bắt Đầu Trong %d Phút(s)
+CustomEventDropText2 = [%s] Bắt Đầu !
+CustomEventDropText3 = [%s] Kết Thúc !
+
+;==================================================
+; Custom NPC Talk
+;==================================================
+CustomNpcTalkBaul = -1
+CustomNpcTalkQuest = -1
+CustomNpcTalkGoblin = -1
+CustomNpcTalkTrainer = -1
+CustomNpcTalkGuard = -1
+CustomNpcTalkNixie = -1
+
+;==================================================
+; Custom MuHelper Settings
+;==================================================
+MuOffHelperTime_AL0 = 99999
+MuOffHelperTime_AL1 = 99999
+MuOffHelperTime_AL2 = 99999
+MuOffHelperTime_AL3 = 99999
+MuOffHelperEnabled_AL0 = 1
+MuOffHelperEnabled_AL1 = 1
+MuOffHelperEnabled_AL2 = 1
+MuOffHelperEnabled_AL3 = 1
+
+;==================================================
+; Custom Store Settings
+;==================================================
+CustomStoreMapZone = -1
+CustomStoreTime_AL0 = 0
+CustomStoreTime_AL1 = 0
+CustomStoreTime_AL2 = 0
+CustomStoreTime_AL3 = 0
+CustomStoreCommandJoBSyntax = bless
+CustomStoreCommandJoSSyntax = soul
+CustomStoreCommandJoCSyntax = chaos
+CustomStoreCommandWCCSyntax = wcc
+CustomStoreCommandWCPSyntax = wcp
+CustomStoreCommandWCGSyntax = wcg
+CustomStoreJoBName = .::BLESS STORE::.
+CustomStoreJoSName = .::SOUL STORE::.
+CustomStoreJoCName = .::CHAOS STORE::.
+CustomStoreWCCName = .::WCC STORE::.
+CustomStoreWCPName = .::WCP STORE::.
+CustomStoreWCGName = .::WCG STORE::.
+
+;==================================================
+; Custom Store Offline Settings
+;==================================================
+CustomStoreOfflineGPGain = 0
+CustomStoreOfflineMapZone = -1
+
+;==================================================
+; Custom Attack Settings
+;==================================================
+CustomAttackTime_AL0 = 99999
+CustomAttackTime_AL1 = 99999
+CustomAttackTime_AL2 = 99999
+CustomAttackTime_AL3 = 99999
+CustomAttackDelay = 500
+CustomAttackAutoPotionDelay = 0
+CustomAttackAutoBuff_AL0 = 1
+CustomAttackAutoBuff_AL1 = 1
+CustomAttackAutoBuff_AL2 = 1
+CustomAttackAutoBuff_AL3 = 1
+CustomAttackAutoBuffDelay = 10
+CustomAttackAutoResume_AL0 = 1
+CustomAttackAutoResume_AL1 = 1
+CustomAttackAutoResume_AL2 = 1
+CustomAttackAutoResume_AL3 = 1
+
+;==================================================
+; Custom Attack Offline Settings
+;==================================================
+CustomAttackOfflineGPGain = 0
+
+;==================================================
+; Custom Online Lottery Settings	  ;Cài đặt xổ số trực tuyến 
+;==================================================
+CustomOnlineLotterySwitch = 0
+CustomOnlineLotteryText1 = %s trong %d phút(s)
+CustomOnlineLotteryText2 = %s là người chiến thắng. Chúc mừng!
+CustomOnlineLotteryText3 = %s Không có người chiến thắng
+CustomOnlineLotteryNoOff = 1
+
+;==================================================
+; Custom Quest Settings
+;==================================================
+CustomQuestSwitch = 0
+
+;==================================================
+; Custom RankUser Settings (CustomRankUser.txt)
+; Type Reset = 0, Type Master Reset = 1, Type Level = 2
+;==================================================
+CustomRankUserSwitch = 1
+CustomRankUserType = 0
+CustomRankUserRewardSwitch = 0
+CustomRankUserNoticeToAll = 0
+CustomRankUserNoticeToUser = 0
+
+;==================================================
+; Custom Death Message
+;==================================================
+CustomDeathMessageSwitch = 0
+
+;==================================================
+; Custom Quiz
+;==================================================
+CustomQuizSwitch = 0
+
+;==================================================
+; Custom NpcCollector Settings (CustomNpcCollector.txt)
+;==================================================
+CustomNpcCollectorSwitch = 1
+
+;==================================================
+; Custom Ranking Settings (CustomRanking.txt) F8 in game
+;==================================================
+CustomRankingSwitch = 1
+
+;==================================================
+; Custom EventTime Settings H in game
+;==================================================
+CustomEventTimeSwitch = 1
+
+;==================================================
+; Custom Guild Warehouse
+; Member Status to use: 
+; 0 All Members
+; 32 Battle Master+
+; 64 Guild Assistente+ 
+; 128 Guild Master+
+;==================================================
+GuildWarehouseEnable = 0
+GuildWarehouseStatus = 0
+
+;==================================================
+; Custom Shop MessageBox
+;==================================================
+; Types:
+; 0: Disabled
+; 1: Only for coins
+; 2: All purchases
+;==================================================
+CustomShopMessageBox = 0
+
+;==================================================
+; Custom Quest Settings (CustomNpcQuest.txt)
+;==================================================
+CustomNpcQuestSwitch = 0
+
+;==================================================
+; CUSTOM CHARACTER INTERFACE
+;==================================================
+CustomCharInterface_AL0 = 1
+CustomCharInterface_AL1 = 1
+CustomCharInterface_AL2 = 1
+CustomCharInterface_AL3 = 1
+
+;==================================================
+; WAREHOUSE SETTINGS
+;==================================================
+CustomWarehouseSwitch = 1
+CustomWarehouseEnable_AL0 = 1
+CustomWarehouseEnable_AL1 = 1
+CustomWarehouseEnable_AL2 = 1
+CustomWarehouseEnable_AL3 = 1
+CustomWarehouseMaxNumber_AL0 = 8
+CustomWarehouseMaxNumber_AL1 = 8
+CustomWarehouseMaxNumber_AL2 = 8
+CustomWarehouseMaxNumber_AL3 = 8
+CustomWarehouseAnimated = 1

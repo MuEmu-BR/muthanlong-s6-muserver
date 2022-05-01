@@ -1,0 +1,42 @@
+//=================================================================================================================
+// Custom Auto Quiz System
+//=================================================================================================================
+0
+//Index   Year   Month   Day   DoW   Hour   Minute   Second
+0         *      *       *     *     *      10       0
+end
+
+1
+//Index   Name                       AlarmTime   EventTime
+0         "Quiz"                        3           3
+end
+
+
+//=================================================================================================================
+// Questions
+//=================================================================================================================
+//  ID  	->  Question ID
+//  WC 		->  Premiação em WCoinC
+//  WP      	->  Premiação em WCoinP
+//  GP      	->  Premiação em Goblin Point
+//  Question   	->  Pergunta
+//  Answer   	->  Resposta
+//=================================================================================================================
+// Obs: Evite usar respostas que possuem acentos. 
+//=================================================================================================================
+//=================================================================================================================
+//       #ID     #WC     #WP	 #GP         #Question				      		        #Answer		 
+//=================================================================================================================
+2
+	  0      10       0       0	     "Capital of Poland"					"Warsaw"	
+	  1      10       0       0	     "10+2x2?"							"14"
+	  2      10       0       0	     "What is the game website?"				"www.avalonmu.servegame.com/"
+	  3      10       0       0	     "One of the greatest scientists in the world?"		"Albert Einstein"
+	  4      10       0       0	     "How many times has Brazil been world champion (football)?"	"5"
+	  5      10       0       0	     "In what year was the Mu Online game released?"			"2001"
+	  6      10       0       0	     "What is the exact ADM nick for the game?"			"CinusADM"
+	  7      10       0       0	     "What is the exact name of the server?"				"AvalonMu"
+	  8      10       0       0	     "When a player is new, what do we call him?"		"Noob"
+	  9      10       0       0	     "How many states does USA have?"				"50"
+	  10     10       0       0	     "On which continent is Italy located?"		"Europe"
+end

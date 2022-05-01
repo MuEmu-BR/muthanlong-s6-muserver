@@ -1,0 +1,2 @@
+//Index	Group	Type	InfoX	InfoY	name
+end

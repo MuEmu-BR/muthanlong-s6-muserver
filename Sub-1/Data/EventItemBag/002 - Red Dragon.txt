@@ -1,0 +1,18 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
+"Red Dragon"		      100000      20		        1		         0		           0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+12 30    0          0          0       0      0        0    //"Cụm Ngọc Ước Nguyện"
+12 31    0          0          0       0      0        0    //"Cụm Ngọc Tâm Linh"
+12 136   0          0          0       0      0        0    //"Cụm Ngọc Sinh Mệnh"		
+12 137   0          0          0       0      0        0    //"Cụm Ngọc Sáng Tạo"		
+12 138   0          0          0       0      0        0    //"Cụm Đá Hộ Mệnh"			
+12 139   0          0          0       0      0        0    //"Cụm Đá Nguyên Thủy"		
+12 140   0          0          0       0      0        0    //"Cụm Đá Tạo Hóa"			
+12 141   0          0          0       0      0        0    //"Cụm Ngọc Hỗn Nguyên"		
+//12 142   0          0          0       0      0        0    //"Cụm Đá Tinh Luyện Thấp"	
+//12 143   0          0          0       0      0        0    //"Cụm Đá Tinh Luyện Cao"	
+end

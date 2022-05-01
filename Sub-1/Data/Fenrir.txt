@@ -1,0 +1,11 @@
+Fenrir Gold - /make 13 37 0 0 0 0 4 0
+Fenrir Azul - /make 13 37 0 0 0 0 2 0
+Fenrir Negro - /make 13 37 0 0 0 0 1 0
+
+/make 13 37 0 1 0 0 0 rojo
+/make 13 37 0 1 0 0 1 negro
+/make 13 37 0 1 0 0 2 azul
+/make 13 37 0 1 0 0 4 dorado
+
+
+Stats level 400 2495

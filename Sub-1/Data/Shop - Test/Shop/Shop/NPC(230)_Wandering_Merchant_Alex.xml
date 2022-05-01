@@ -1,0 +1,25 @@
+<Shop>
+	<Item Cat="7" Index="59" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="7" Index="60" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="7" Index="61" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="30" Level="0" Durability="255" Skill="1" Luck="0" Aditional="0" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="31" Level="0" Durability="255" Skill="1" Luck="0" Aditional="0" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="8" Index="59" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="8" Index="60" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="8" Index="61" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="32" Level="0" Durability="255" Skill="1" Luck="0" Aditional="0" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="33" Level="0" Durability="255" Skill="1" Luck="0" Aditional="0" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="34" Level="0" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="9" Index="59" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="9" Index="60" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="9" Index="61" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="12" Index="49" Level="13" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="36" Level="0" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="0" Set="0" SocketCount="0" />
+	<Item Cat="11" Index="59" Level="13" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="11" Index="60" Level="13" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="11" Index="61" Level="13" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="0" Index="32" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="0" Index="33" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="0" Index="34" Level="13" Durability="255" Skill="0" Luck="1" Aditional="1" Excellent="1" Set="0" SocketCount="0" />
+	<Item Cat="15" Index="35" Level="0" Durability="255" Skill="1" Luck="1" Aditional="1" Excellent="0" Set="0" SocketCount="0" />
+</Shop>

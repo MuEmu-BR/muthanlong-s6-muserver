@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SpeedCheck>
+	<AntiMoveSpeed Debug ="0" Enabled="0"  GateMove = "17" SpeedNormal = "8"  SpeedPet = "9" SpeedWing = "10" />
+	<!-- MSCal > XDameMinMS = MISS -->
+	<AntiAnimation Enabled="1" Debug ="0">
+		<!-- DK -->
+		<Config SkillIndex="42"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> <!-- Địa Chấn -->
+		<Config SkillIndex="331" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> <!-- Địa Chấn MT -->
+		<Config SkillIndex="333" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> <!-- Địa Chấn MT -->
+		<Config SkillIndex="232" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="1000" MaxCount="4"/> <!-- Chém Băng -->
+		<Config SkillIndex="44"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.8"    LimitSpeed="200" MaxCount="4"/> <!-- Vầng Trăng Khuyết -->
+		<Config SkillIndex="43"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.8"    LimitSpeed="200" MaxCount="4"/> <!-- Đâm Gió -->
+		<Config SkillIndex="336" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="0.8"   LimitSpeed="200" MaxCount="4"/> <!-- Đâm Gió MT-->
+		<Config SkillIndex="41"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="11"/> <!-- Xoay Kiếm -->
+		<Config SkillIndex="330" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/> <!-- Xoay Kiếm MT -->
+		<Config SkillIndex="332" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/> <!-- Xoay Kiếm MT -->
+		
+		<Config SkillIndex="22"  TypeSkill="-1"  XDameMinMS="15" AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="4"/> <!-- Chém Xoáy -->
+		<Config SkillIndex="479" TypeSkill="-1"  XDameMinMS="15"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="4"/> <!-- Chém Xoáy MT -->
+		<!-- Magic -->             
+		<Config SkillIndex="236" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="150" MaxCount="6"/> <!-- Hoả Diệm -->
+		<Config SkillIndex="55"  TypeSkill="0"   XDameMinMS="25" AnimationSpeed="2.0"   LimitSpeed="40" MaxCount="6"/> <!-- Chém Lửa -->
+		<Config SkillIndex="490" TypeSkill="2"   XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="100" MaxCount="3"/> <!-- Chém Lửa MT-->
+		<Config SkillIndex="56"  TypeSkill="-1"  XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="17"/> <!-- Sức Mạnh Cú Chém -->
+		<Config SkillIndex="482" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="17"/> <!-- Sức Mạnh Cú Chém MT -->
+		<Config SkillIndex="57"  TypeSkill="-1"  XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="3"/> <!-- Tia Năng Lượng -->
+		<Config SkillIndex="237"  TypeSkill="-1" XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="14"/> <!-- Bao Anh Sang -->
+		<Config SkillIndex="481" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/> <!-- Xoay Kiếm MT -->
+		<!-- DL -->              
+		<Config SkillIndex="74"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="140" MaxCount="14"/> <!-- Hoả Xích Long -->
+		<Config SkillIndex="60"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> <!-- Dam Anh Sang -->
+		<Config SkillIndex="509" TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="200" MaxCount="15"/> <!-- Sóng Năng Lượng MT -->
+		<Config SkillIndex="61"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> <!-- Hoả Xích Long -->
+		<Config SkillIndex="508"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> <!-- Hoả Xích Long MT -->
+		<Config SkillIndex="514"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> <!-- Hoả Xích Long MT -->
+								   
+		<Config SkillIndex="78"  TypeSkill="2"  XDameMinMS="100" AnimationSpeed="3.0"   LimitSpeed="40" MaxCount="5"/> <!-- Lửa Địa Ngục -->
+		<Config SkillIndex="518"  TypeSkill="2" XDameMinMS="100"  AnimationSpeed="3.0"   LimitSpeed="40" MaxCount="5"/> <!-- Lửa Địa Ngục MT -->
+		<Config SkillIndex="238" TypeSkill="-1" XDameMinMS="100"   AnimationSpeed="4.0"   LimitSpeed="40" MaxCount="17"/> <!-- Hỗn Loạn -->
+		
+		<!-- DW -->						  
+		<Config SkillIndex="39" 	 TypeSkill="-1"  XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/> <!--Mưa Băng Tuyết -->
+		<Config SkillIndex="9" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/> <!--Linh Hồn -->
+		<Config SkillIndex="385" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/> <!--Linh Hồn -->
+		<Config SkillIndex="5" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/> <!--Cột Lửa -->
+		<Config SkillIndex="378" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/> <!--Cột Lửa MT -->
+		<Config SkillIndex="8" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/> <!--Lốc -->
+		<Config SkillIndex="14" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="40" MaxCount="7"/> <!--Vòng Tròn Lửa -->
+		<Config SkillIndex="381" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="40" MaxCount="7"/> <!--Vòng Tròn Lửa -->
+		<Config SkillIndex="12" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/> <!--Luồng Nước XOáy -->
+		<Config SkillIndex="13" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/> <!--Mưa Sao Băng -->
+		<Config SkillIndex="382" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/> <!--Mưa Sao Băng MT-->
+		<Config SkillIndex="10" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="170" MaxCount="7"/> <!--Lửa Địa Ngục -->
+		<Config SkillIndex="1" 		 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/> <!--Độc -->
+		<Config SkillIndex="384" 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/> <!--Độc -->
+		<Config SkillIndex="7" 	 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/> <!--Đóng Băng -->
+		<Config SkillIndex="38" 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/> <!--Mưa Độc Tố -->
+		<Config SkillIndex="387" 	 TypeSkill="-1"  XDameMinMS="30" 	 AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/> <!--Mưa Độc Tố -->
+		<Config SkillIndex="17"  	 TypeSkill="1"   XDameMinMS="30" AnimationSpeed="5.0"    LimitSpeed="250" 	MaxCount="4"/><!-- Bong Bóng-->
+		<Config SkillIndex="45"  	 TypeSkill="1"   XDameMinMS="30" AnimationSpeed="5.0"    LimitSpeed="250" 	MaxCount="4"/><!-- Lưỡi Phong Đao-->
+		<!-- ELF -->
+		<Config SkillIndex="24"  TypeSkill="2"   XDameMinMS="100"  AnimationSpeed="5.5"    LimitSpeed="0" MaxCount="5"/> <!--Tấn Công Liên Hoàn  -->
+		<Config SkillIndex="414"  TypeSkill="2"  XDameMinMS="100"   AnimationSpeed="6.0"    LimitSpeed="0" MaxCount="5"/> <!--Tấn Công Liên Hoàn  -->
+		<Config SkillIndex="418"  TypeSkill="2"  XDameMinMS="100"   AnimationSpeed="6.0"    LimitSpeed="0" MaxCount="5"/> <!--Tấn Công Liên Hoàn  -->
+		
+		<Config SkillIndex="235"  TypeSkill="2"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="0" MaxCount="14"/> <!-- Ngũ Tiễn -->
+		<Config SkillIndex="52"  TypeSkill="2"   XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="3"/> <!-- Xuyên Tâm Tiễn -->
+		<Config SkillIndex="416"  TypeSkill="2"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="100" MaxCount="3"/> <!-- Xuyên Tâm Tiễn -->
+		<Config SkillIndex="46"  TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/> <!-- Mũi Tên THiên Đường -->
+		<Config SkillIndex="51"  TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/> <!-- Mũi Tên Băng -->
+		<Config SkillIndex="424"  TypeSkill="-1" XDameMinMS="100" AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/> <!-- Mũi Tên Băng -->
+		
+		<!-- RF -->
+		<Config SkillIndex="264"  TypeSkill="-1" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/> <!-- Gầm Thét -->
+		<Config SkillIndex="263"  TypeSkill="3"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/> <!-- AALH -->
+
+		<Config SkillIndex="262"  TypeSkill="3" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/> <!-- Vật Ngã -->
+		<Config SkillIndex="558"  TypeSkill="3" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/> <!-- Vật Ngã  MT -->
+		
+		<Config SkillIndex="265"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		<Config SkillIndex="269"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="1.0"    LimitSpeed="300" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		<Config SkillIndex="261"  TypeSkill="3"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		<Config SkillIndex="551"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		<Config SkillIndex="552"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		<Config SkillIndex="554"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/> <!-- Hơi Thở Rồng -->
+		
+		<!-- SUM -->
+		<Config SkillIndex="214"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="0" MaxCount="17"/><!-- Hút M -->
+		<Config SkillIndex="458"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="0" MaxCount="17"/><!-- Hút M -->
+		<Config SkillIndex="215"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="85" MaxCount="7"/><!-- Sét -->
+		<Config SkillIndex="455"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="70" MaxCount="7"/><!-- Sét -->
+		<Config SkillIndex="219"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/><!-- Ru Ngu -->
+		<Config SkillIndex="230"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/><!-- Soc Dien -->
+		<Config SkillIndex="456"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/><!-- Soc Dien -->
+	
+		<!--Spam skill-->
+		<Config SkillIndex="16"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="44"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="57"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="73"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="74"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="45"   TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="46"   TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="269"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="26"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="426"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="18"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="27"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="28"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="64"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="234"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="217"  TypeSkill="99"   AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		
+	</AntiAnimation>
+	
+    <!-- Cấu Hính Điều Kiện Check Speed -->
+	<AntiAttackDelay Enabled="1" Debug ="0">
+        <Config MinSpeed="0" 	MaxSpeed="200"	MaxCount="14"	DW="160"	DK="200" ELF="200" MG="200" DL="200" SUM="200" RF="200"/>
+        <Config MinSpeed="201"	MaxSpeed="300"	MaxCount="14"	DW="140"	DK="140" ELF="160" MG="160" DL="160" SUM="160" RF="160"/>
+        <Config MinSpeed="301"	MaxSpeed="400"	MaxCount="28"	DW="120"	DK="120" ELF="120" MG="120" DL="120" SUM="120" RF="120"/>
+        <Config MinSpeed="401"	MaxSpeed="500"	MaxCount="30"	DW="100"	DK="100" ELF="100" MG="100" DL="100" SUM="100" RF="100"/>
+        <Config MinSpeed="501"	MaxSpeed="700"	MaxCount="40"	DW="95"		DK="90"  ELF="90"  MG="90"  DL="90"  SUM="90"  RF="90"/>
+        <Config MinSpeed="701"	MaxSpeed="-1"	MaxCount="50"	DW="60"		DK="60"  ELF="60"  MG="60"  DL="60"  SUM="60"  RF="35"/>
+	</AntiAttackDelay>	
+
+	
+</SpeedCheck>

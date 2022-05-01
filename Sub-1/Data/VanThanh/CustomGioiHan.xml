@@ -1,0 +1,38 @@
+<CustomGioiHan>
+    <!----------------------------------------------------------------------------------------------->
+	<!---Bật tắt sử dụng giới hạn--->
+	<Enabled>
+        <Config 
+		BloodCastle="1"
+		DevilSquare="1" 
+		ChaosCastle="1"
+		/>
+	</Enabled>
+    <!----------------------------------------------------------------------------------------------->
+    <!---Giới Hạn Số Lần Tham Gia trong 1 Ngày--->
+	<!---Sau 1 Ngày sẽ tự Resets số lần về 0 tại file CapNhapDataServer.txt --->
+	<GioiHanSoLanThamGia>
+        <Config
+		BloodCastleCount="1"
+		DevilSquareCount="1"
+		ChaosCastleCount="1"
+		/>
+	</GioiHanSoLanThamGia>
+    <!----------------------------------------------------------------------------------------------->
+   <!----------------------------------------------------------------------------------------------->
+    <!---Thông báo--->
+	<ThongBao>
+        <Config 
+		Msg1="Bạn đã quá số lần tham gia Huyết Lâu trong ngày!"
+		Msg2="Bạn đã quá số lần tham gia Quảng Trường Quỷ trong ngày!"
+		Msg3="Bạn đã quá số lần tham gia Hỗn Nguyên Lâu trong ngày!"
+		
+		Msg4="Bạn còn %d/%d tham gia Huyết Lâu trong ngày!"
+		Msg5="Bạn còn %d/%d tham gia Quảng Trường Quỷ trong ngày!"
+		Msg6="Bạn còn %d/%d tham gia Hỗn Nguyên Lâu trong ngày!"
+		/>
+	</ThongBao>
+    <!----------------------------------------------------------------------------------------------->
+
+
+</CustomGioiHan>

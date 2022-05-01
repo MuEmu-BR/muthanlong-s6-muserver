@@ -1,0 +1,63 @@
+0
+//**************************
+//index	MuunUtil rank	OptionIndex	evol   Comment
+6856     1        2        1         0
+6857     1        2        1         0
+6858     1        2        1         0
+6859     1        2        1         0
+6860     1        2        1         0
+6861     1        2        1         0
+6862     1        2        1         0
+6863     1        2        1         0
+6864     1        2        1         0
+6865     1        2        1         0
+6866     1        2        1         0
+6867     1        2        1         0
+6868     1        2        1         0
+6869     1        2        1         0
+6870     1        2        1         0
+6871     1        2        1         0
+6872     1        2        1         0
+6873     1        2        1         0
+6874     1        2        1         0
+6875     1        2        1         0
+6876     1        2        1         0
+6877     1        2        1         0
+6878     1        2        1         0
+6879     1        2        1         0
+6880     1        2        1         0
+6881     1        2        1         0
+6882     1        2        1         0
+6883     1        2        1         0
+6884     1        2        1         0
+6885     1        2        1         0
+6886     1        2        1         0
+6887     1        2        1         0
+6888     1        2        1         0
+6889     1        2        1         0
+6890     1        2        1         0
+6891     1        2        1         0
+6892     1        2        1         0
+6893     1        2        1         0
+6894     1        2        1         0
+6895     1        2        1         0
+6896     1        2        1         0
+6897     1        2        1         0
+6898     1        2        1         0
+6899     1        2        1         0
+6900     1        2        1         0
+6901     1        2        1         0
+
+end
+
+1
+//==== Type này để nguyên khỏi config
+//index		opt1	opt2		opt3	opt4		opt5	MaxOpt	SpecialOpt	SpecialVal	Map		Time	DayOfWeek	MinHor	MaxHor	Minlvl	MaxLvl	MinML	MaxML
+	1	     1	     1	         1	     1	     		1	  13	   1		   150		*		*	      *		      *	     *	      *	      *	      *	      *
+end	
+//==== Option Dame Pet 
+2
+//OptionIndex = OptionIndex trên **************************
+//OptionIndex	AddHP		AddMP	DamageRate   AttackSpeed   DoubleDmgRate	TripleDmgRate	AddExp	ResistDoubleDmg	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDMG	ResistExceDMG	BlockStuck	ReflectRate
+       1	     5000		5000	   50		    0		        10		         0		      0		      0			         0			     10		            0			        0			0		    0
+end

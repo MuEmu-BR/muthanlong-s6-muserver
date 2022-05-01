@@ -1,0 +1,6 @@
+// MAX 20 CUSTOM MOVES by louis www.jogandomu.com.br
+//INDEX Command		Map	  X	     Y	  MinLevel	MaxLevel	MinReset	MaxReset	MinMReset	MaxMReset	AccountLevel	PKMove
+1	"/av1"		    18    31     88	  50		*		     *		*		*		*		0		1
+2	"/av2"		    30    176    216  50		*		     *		*		*		*		0		1
+3	"/av3"		    89    31     88	  50		*		     *		*		*		*		0		1
+end

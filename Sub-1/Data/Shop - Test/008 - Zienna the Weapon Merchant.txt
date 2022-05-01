@@ -1,0 +1,32 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 008 - Zienna the Weapon Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	1	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Dragon Helm
+7	3	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Helm
+7	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Guardian Helm
+6	10	2	255	1	1	1	0 0 0 0 0 0 0 0 0	//Large Round Shield
+8	1	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Dragon Armor
+8	3	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Armor
+8	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Guardian Armor
+6	11	2	255	1	1	1	0 0 0 0 0 0 0 0 0	//Serpent Shield
+9	3	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Pants
+9	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Guardian Pants
+6	12	2	255	1	1	1	0 0 0 0 0 0 0 0 0	//Bronze Shield
+9	1	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Dragon Pants
+10	3	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Gloves
+10	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Guardian Gloves
+6	13	2	255	1	1	1	0 0 0 0 0 0 0 0 0	//Dragon Shield
+10	1	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Dragon Gloves
+11	3	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Boots
+11	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Guardian Boots
+6	14	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Shield
+11	1	2	255	0	1	1	0 0 0 0 0 0 0 0 0	//Dragon Boots
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+13	0	0	255	0	0	0	0 0 0 0 0 0 0 0 0	//Guardian Angel
+13	1	0	255	0	0	0	0 0 0 0 0 0 0 0 0	//Imp
+end

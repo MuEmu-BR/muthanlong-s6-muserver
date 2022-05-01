@@ -1,0 +1,9 @@
+//=========================================================================================================================================
+//Message                                                         Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"Máy Chủ Thần Long Season6.9"                                     0      0       0         0       0     0       0      0       60
+"Lệnh cộng điểm nhanh /addstr /addagi /addvit /addene /addcmd"    0      0       0         0       0     0       0      0       60
+"Hack/Cheat/Gian nận sẽ bị xóa tài khoản,ban IP và ổ cứng !"	  0      0       0         0       0     1       0      0       60
+"Mua bán hãy liên hệ admin để trung gian,tránh bị lừa đảo"	      0      0       0         0       0     0       1      0       60
+"Giới hạn Resets 50 Lần / Ngày"	                                  0      0       0         0       0     0       1      0       60
+
+end

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MSGThongBao IndexMesMin="773" IndexMesMax="778"/>
+
+<Config DelayRange="4000" />
+
+<!--- Ghi Chu
+	SkillID = Skill De Train, PK
+	UseBuffs = Skill Dung De Buff TOi Da  3 Skill
+	GateNumber = Index Gate de Move Map , MapX, MapY : Toa do X,Y
+	PhamViTrain = Pham Vi Danh QUai Max (6)
+	MoveRange = La Pham Vi Di Chuyen TU Do Trong Map Luu Y : neu cho phep di Ranage thi can set TimeReturn cao lên
+	TimeReturn = Thoi gian quay lai Toa vi tri cu (MapX,MapY) Tính bằng Phút
+	PVPMode  = 1 (Tự động đánh trả khi bị đánh), 2 (Kill tât cả người chơi trong phạm vi, tự động xóa tội nếu PK 10), 0 Là tắt
+	PartyMode =  1 (Tự động chấp nhận yêu cầu Party), 2 (Tự động Party người chơi xung quanh), 0 là tắt không Party, 3 (Chỉ Gửi Yêu Cầu party nếu là Fake Online)
+	PostKhiDie =  1 (Tự động Chat Post khi bị giết)
+-->
+<FakeOnlineData>
+    <!-- RF  Skill 264  Buff 266,267,268-->
+    <!-- RF  -->
+	<!--<Info Account="2" Password="2" Name="RFHP" SkillID="264" UseBuffs_0="266" UseBuffs_1="267" UseBuffs_2="268" 
+	GateNumber="6" MapX="54" MapY="112" 
+	PhamViTrain="6"  MoveRange="1" TimeReturn="10"
+	TuNhatItem="1" TuDongReset="1"
+	PartyMode = "1" PVPMode="1" 
+	PostKhiDie = "1"  />-->
+	
+	
+	<!-- EF  Skill 235  Buff 26,27,28-->
+	<!-- EF  -->
+	<Info Account="2" Password="2" Name="EFHP" SkillID="235" UseBuffs_0="0" UseBuffs_1="27" UseBuffs_2="28" 
+	GateNumber="6" MapX="47" MapY="82" 
+	PhamViTrain="2"  MoveRange="1" TimeReturn="0"
+	TuNhatItem="1" TuDongReset="1"
+	PartyMode = "1" PVPMode="1" 
+	PostKhiDie = "1"  />
+	
+	<!-- DL  Skill 61 Quăng Xích, 78 Hỏa Âm  Buff 64-->
+	<Info Account="3" Password="3" Name="Spider" SkillID="78" UseBuffs_0="64" UseBuffs_1="0" UseBuffs_2="0" 
+	GateNumber="6" MapX="55" MapY="113" 
+	PhamViTrain="6"  MoveRange="1" TimeReturn="10"
+	TuNhatItem="1" TuDongReset="1"
+	PartyMode = "1" PVPMode="1" 
+	PostKhiDie = "1"  />
+	
+	
+</FakeOnlineData>

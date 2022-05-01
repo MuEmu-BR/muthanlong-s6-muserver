@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OfflineMode>
+	<Buff SkillID="16" Class="0"/> <!-- Mana Shield -->
+	<Buff SkillID="233" Class="0"/> <!-- Magic Circle -->
+	<Buff SkillID="48" Class="1"/> <!-- Greater Life -->
+	<!--<Buff SkillID="356" Class="1"/> <!-- Greater Life -->
+	<!--<Buff SkillID="360" Class="1"/> <!-- Greater Life -->
+	<!--<Buff SkillID="363" Class="1"/> <!-- Greater Life -->
+	<Buff SkillID="26" Class="2"/> <!-- Heal -->
+	<Buff SkillID="27" Class="2"/> <!-- Greater Defense -->
+	<Buff SkillID="28" Class="2"/> <!-- Greater Damage -->
+	<Buff SkillID="77" Class="2"/> <!-- Infinity Arrow -->
+	<Buff SkillID="64" Class="4"/> <!-- Critical Damage -->
+	<Buff SkillID="217" Class="5"/> <!-- Reflect Damage -->
+	<Buff SkillID="218" Class="5"/> <!-- Sword Power -->
+	<Buff SkillID="221" Class="5"/> <!-- Lesser Damage -->
+	<Buff SkillID="266" Class="6"/> <!-- Igrone Defense -->
+	<Buff SkillID="267" Class="6"/> <!-- Fitness -->
+	<Buff SkillID="268" Class="6"/> <!-- Defense Success Rate -->
+</OfflineMode>

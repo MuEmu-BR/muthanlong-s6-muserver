@@ -1,0 +1,75 @@
+<BossGuild>
+
+    <!----------------------------------------------------------------------------------------------->
+	<EventTime>
+        <Time Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="30" Second="-1" />
+	</EventTime>
+	<!----------------------------------------------------------------------------------------------->
+	<NPCTalk>
+        <NPC Class="380" Map="2" X="212" Y="45" />
+	</NPCTalk>	
+	<!----------------------------------------------------------------------------------------------->
+	<Time>
+	    <Config Enabled="1" MapDienRa = "83" TimeChuanBi = "2" TimeSuKien = "2" GuildMinPlayer="1"/>
+	</Time>
+	<!----------------------------------------------------------------------------------------------->
+	<CauHinhGate>
+	    <Config GateVaoMap="820"/>
+	</CauHinhGate>	
+	<!----------------------------------------------------------------------------------------------->
+	<!-- Cài đặt 2 chế độ Boss -->
+	<!-- CheDo1 = có 3 boss, Phù Thủy, Chiến Binh, Tiên Nữ -->
+	<!-- CheDo2 = có 4 boss, Thuật Sĩ, Thiết Binh, Đấu Sĩ, Chúa Tể -->
+	<!----------------------------------------------------------------------------------------------->
+	<CheDoBoss>
+	    <Config	CheDo1="0" CheDo2="1"/>
+    </CheDoBoss>	
+	<!----------------------------------------------------------------------------------------------->
+	<!-- Yêu cầu kill boss để trờ thành guild thắng -->
+	<!-- CheDo1 = sửa KillBoss = 2 -->
+	<!-- CheDo2 = sửa KillBoss = 3 -->
+	<!----------------------------------------------------------------------------------------------->
+	<DieuKienGuildWin>
+	    <Config	KillBoss="3" />
+    </DieuKienGuildWin>	
+    <!----------------------------------------------------------------------------------------------->
+	<!-- phần thưởng cho thành viên guild chiến thắng -->
+	<!-- Score là điểm tổng cho Guild , cái này chỉnh mỗi thành viên sẽ góp cho Guild chỉnh ít thui-->
+	<!-- Wcoin mỗi thành viên nhận được-->
+	<!----------------------------------------------------------------------------------------------->
+	<GuildWin>
+	    <Config	Score="200" WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexItemBag="0"/>
+    </GuildWin>	
+	<!----------------------------------------------------------------------------------------------->
+	<!-- Cài đặt tiền thưởng boss -->
+	<!----------------------------------------------------------------------------------------------->
+	<BossPhuThuy>
+	    <Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossPhuThuy>	
+	<!----------------------------------------------------------------------------------------------->
+	<BossChienBinh>
+	    <Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossChienBinh>	
+	<!----------------------------------------------------------------------------------------------->
+	<BossTienNu>
+	    <Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossTienNu>	
+	<!----------------------------------------------------------------------------------------------->
+	<BossThuatSi>
+		<Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+	</BossThuatSi>	
+	<!----------------------------------------------------------------------------------------------->
+	<BossThietBinh>
+		<Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossThietBinh>	
+    <!----------------------------------------------------------------------------------------------->
+	<BossDauSi>
+		<Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossDauSi>	
+	<!----------------------------------------------------------------------------------------------->
+	<BossChuaTe>
+		<Config	WCoin="5000" WCoinP="0" GobinP="0" IndexBonus="0" IndexType="0" IndexItem="0"/>
+    </BossChuaTe>	
+	<!----------------------------------------------------------------------------------------------->
+
+</BossGuild>

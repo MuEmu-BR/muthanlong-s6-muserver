@@ -1,0 +1,4 @@
+0
+//Year   Month   Day   DoW   Hour   Minute   Second
+	*      *      *    *     *      25       0
+end

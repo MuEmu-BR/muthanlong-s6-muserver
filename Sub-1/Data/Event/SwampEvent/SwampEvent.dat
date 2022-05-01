@@ -1,0 +1,25 @@
+
+//------------------------------------------------------------------------------
+// - Year	Month	Day	DatWeek	Hour	Minutes	Seconds
+0
+	*		*		*	*		17		45		0
+end
+
+// - Swamp     MapEnter     MapEnter    KeepOpen
+// - Enabled  OnlyMasters  WhenStarted  MapMinutes
+1 
+	  1	        1	           0	       0
+end
+
+// - NOT CHANGE!
+// - Gate[1]	Gate[2]	 Gate[3]
+2
+	    22	      273	  285
+end
+
+3
+// - Group	Minute(s)
+	1	      10
+	2	      10
+	3	      10
+end

@@ -1,0 +1,40 @@
+3
+//Index   DropRate
+0         100
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         20          0             0               1    1    1    1    1    1    1
+0         6         10          0             0               1    1    1    1    1    1    1
+0         *         70          100000        0               1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6856      0       0       *         *         *         *         *         *         *         255          // Pet Luki (Lv1)
+6857      0       0       *         *         *         *         *         *         *         255          // Pet William (Lv1)
+6858      0       0       *         *         *         *         *         *         *         255          // Pet Tibetton (Lv1)
+6859      0       0       *         *         *         *         *         *         *         255          // Pet Wooparoo (Lv1)
+6860      0       0       *         *         *         *         *         *         *         255          // Pet Chiron (Lv1)
+6861      0       0       *         *         *         *         *         *         *         255          // Pet Desmodus (Lv1)
+6862      0       0       *         *         *         *         *         *         *         255          // Pet Loggle (Lv1)
+6863      0       0       *         *         *         *         *         *         *         255          // Pet Repen (Lv1)
+6864      0       0       *         *         *         *         *         *         *         255          // Pet Balrog (Lv1)
+6865      0       0       *         *         *         *         *         *         *         255          // Pet Phoenix of Darkness (Lv1)
+6866      0       0       *         *         *         *         *         *         *         255          // Pet Kundun (Lv1)
+6867      0       0       *         *         *         *         *         *         *         255          // Pet Nightmare (Lv1)
+6868      0       0       *         *         *         *         *         *         *         255          // Pet HellMaine (Lv1)
+6869      0       0       *         *         *         *         *         *         *         255          // Pet Selupan (Lv1)
+6870      0       0       *         *         *         *         *         *         *         255          // Pet Medusa (Lv1)
+6871      0       0       *         *         *         *         *         *         *         255          // Pet Lord Silvester (Lv1)
+6972      0       0       *         *         *         *         *         *         *         255          // Pet Nix (Lv1)
+6873      0       0       *         *         *         *         *         *         *         255          // Tibetton (Mount)
+6874      0       0       *         *         *         *         *         *         *         255          // Repen (Mount)
+6975      0       0       *         *         *         *         *         *         *         255          // Ice Dragon Blue
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6854      0       0       *         *         *         *         *         *         *         255          // Evolution Stone
+end

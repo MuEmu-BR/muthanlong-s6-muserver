@@ -1,0 +1,152 @@
+//=========================================================================================================================================
+// Sistema de Quests
+//=========================================================================================================================================
+
+//=========================================================================================================================================
+// Require Character Stats
+// Max 1 line per quest
+//=========================================================================================================================================
+0
+	//Quest	Level	Reset	MReset	Zen	WC	WP	GP	VipLvl	RankUser Kills
+	1	*	1	*	*	0 	0	0	*	*	 *	
+	2	*	5	*	*	0 	0	0	*	*	 *
+	3	*	8	*	*	0 	0	0	*	*	 *
+	4	*	11	*	*	0 	0	0	*	*	 *
+	5	*	14	*	*	0 	0	0	*	*	 *
+	6	*	17	*	*	0 	0	0	*	*	 *
+	7	*	20	*	*	0 	0	0	*	*	 *
+	8	*	23	*	*	0 	0	0	*	*	 *
+end
+
+//=========================================================================================================================================
+// Require Item
+// O item será removido - The Item will be removed
+//	Luck: 	0 = sem luck, 	1 = com luck, 	* = qualquer
+//	Skill: 	0 = sem skill, 	1 = com skill, 	* = qualquer
+//=========================================================================================================================================
+1
+	//Quest	Cat	Item	Level	Luck	Skill	Qtd
+	999	14	14	*	*	*	5
+end
+
+//=========================================================================================================================================
+// Require Monster Kill
+// Max 1 monster type per quest
+//=========================================================================================================================================
+2
+	//Quest	Monster	Qtd
+
+end
+
+//=========================================================================================================================================
+// Reward Coins (Prêmio)
+// Procedure: WZ_SetCoin
+//=========================================================================================================================================
+3
+	//Quest Wcoin	WcoinP	GP
+
+end
+//=========================================================================================================================================
+// Reward Item
+// Class:
+// 	All-> *
+// 	DW -> 0
+// 	DK -> 1
+// 	FE -> 2
+// 	MG -> 3
+// 	DL -> 4
+// 	SU -> 5
+// 	RF -> 6
+// Time: 
+//	For S6 and S8 only
+//=========================================================================================================================================
+4	
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    1 	  12        130    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       4 //Small Cape of Lord 3 Dias
+            1 	  12        131    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       5 //Small Wing of Curse 3 Dias
+	    1 	  12        132    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       2 //Small Wings of Elf 3 Dias
+	    1 	  12        133    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       0 //Small Wings of Heaven 3 Dias
+	    1 	  12        134    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       1 //Small Wings of Satan 3 Dias
+	    1 	  12        134    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       3 //Small Wings of Satan MG 3 Dias
+	    1 	  12        135    0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       6 //Little Warrior's Cloak 3 Dias
+
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    2 	  13        80     0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       * //panda 3 dias
+	    3 	  13        76     0       0     0       0      0        0	0	0	0	255	255	255	255	255	259200       * //panda ring 3 dias
+
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    4 	  7         67     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       1 //DK Lucky Dragon Anci Helmet
+	    4 	  7         66     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       4 //DL Lucky Adamantine Anci Helmet
+	    4 	  7         72     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       6 //RF Lucky Storm Hard Anci Helmet
+	    4 	  7         69     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       0 //SM Lucky Legendary Anci Helmet
+	    4 	  7         68     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       2 //ME Lucky Guardian Anci Helmet 
+	    4 	  7         70     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       5 //SU Lucky Red Wing Anci Helmet
+
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    5 	  11        67     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       1 //DK Lucky Dragon Anci Boots
+	    5 	  11        66     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       4 //DL Lucky Adamantine Anci Boots
+	    5     11        72     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       6 //RF Lucky Storm Hard Anci Boots
+	    5     11        71     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       3 //MG Lucky Storm Crow Anci Boots
+	    5 	  11        69     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       0 //SM Lucky Legendary Anci Boots
+	    5 	  11        68     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       2 //ME Lucky Guardian Anci Boots
+	    5 	  11        70     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       5 //SU Lucky Red Wing Anci Boots
+
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    6 	  9         67     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       1 //DK Lucky Dragon Anci Pants
+	    6 	  9         66     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       4 //DL Lucky Adamantine Anci Pants
+	    6     9         72     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       6 //RF Lucky Storm Hard Anci Pants
+	    6     9         71     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       3 //MG Lucky Storm Crow Anci PAnts
+	    6 	  9         69     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       0 //SM Lucky Legendary Anci Pants
+	    6 	  9         68     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       2 //ME Lucky Guardian Anci Pants
+	    6 	  9         70     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       5 //SU Lucky Red Wing Anci Pants
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    7 	  10        67     0       0     0       1      4        5	5	0	0	255	255	255	255	255	259200       1 //DK Lucky Dragon Anci Gloves
+	    7 	  10        66     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       4 //DL Lucky Adamantine Anci Gloves
+	    7     10        71     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       3 //MG Lucky Storm Crow Anci Gloves
+	    7 	  10        69     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       0 //SM Lucky Legendary Anci Gloves
+	    7 	  10        68     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       2 //ME Lucky Guardian Anci Gloves
+	    7 	  10        70     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       5 //SU Lucky Red Wing Anci Gloves
+
+
+          //Quest Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Time	     Class
+	    8 	  8         67     0       0     0       1      4        5	5	0	0	255	255	255	255	255	259200       1 //DK Lucky Dragon Anci Armor
+	    8 	  8         66     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       4 //DL Lucky Adamantine Anci Armor
+	    8     8         72     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       6 //RF Lucky Storm Hard Anci Armor
+	    8     8         71     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       3 //MG Lucky Storm Crow Anci Armor
+	    8 	  8         69     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       0 //SM Lucky Legendary Anci Armor
+	    8 	  8         68     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       2 //ME Lucky Guardian Anci Armor
+	    8 	  8         70     0       0     0       1      4        2	5	0	0	255	255	255	255	255	259200       5 //SU Lucky Red Wing Anci Armor
+
+end
+
+//=========================================================================================================================================
+//Reward Buff Effect
+//=========================================================================================================================================
+5
+	//Quest	Effect	Power1	Power2	Time 
+end
+
+//=========================================================================================================================================
+//Reward Experience
+//=========================================================================================================================================
+6
+	//Quest	Experience	LevelUpPoints	Money
+          1     900000          0               0
+          2     900000          0               0
+          3     900000          0               0
+          4     900000          0               0
+          5     900000          0               0
+          6     900000          0               0
+          7     900000          0               0 
+          8     900000          0               0
+end

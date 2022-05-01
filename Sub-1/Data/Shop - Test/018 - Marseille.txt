@@ -1,0 +1,54 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 018 - Marseille
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Helm
+7	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Helm
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Imp
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Imp
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Imp
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Imp
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Guardian Angel
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Guardian Angel
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Guardian Angel
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Guardian Angel
+8	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Armor
+8	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Armor
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+9	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Pants
+9	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Pants
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+13	2	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Horn of Uniria
+10	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Gloves
+10	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Gloves
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0    //Large Healing Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+14	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Large Mana Potion
+11	39	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Violent Wind Boots
+11	40	2	0	0	1	1	0 0 0 0 0 0 0 0 0    //Red Wing Boots
+15	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Scroll of Meteorite
+15	3	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Scroll of Fire Ball
+15	6	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Scroll of Ice
+15	19	0	0	0	0	0	0 0 0 0 0 0 0 0 0    //Chain Lightning Parchment
+end

@@ -1,0 +1,14 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Devil Vip"	         1000	       100		          1		         0		         0		       0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+12 15  0          0          0       0      0        0 // "Ngọc Hỗn Nguyên" 
+14 13  0          0          0       0      0        0 // "Ngọc Ước Nguyện"  	
+14 14  0          0          0       0      0        0 // "Ngọc Tâm Linh"  		
+14 16  0          0          0       0      0        0 // "Ngọc Sinh Mệnh"  	
+14 22  0          0          0       0      0        0 // "Ngọc Sáng Tạo"  		
+14 41  0          0          0       0      0        0 // "Đá nguyên thủy"  	
+end

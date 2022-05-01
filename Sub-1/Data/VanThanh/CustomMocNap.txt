@@ -1,0 +1,136 @@
+//Moc 1
+0
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+//Moc 2
+1
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+//=======================================================================================================================
+//Moc 3
+2
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+//=======================================================================================================================
+// Moc 4
+3
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 5
+4
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 6
+5
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 7
+6
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 8
+7
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 9
+8
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 10
+9
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 11
+10
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// moc 12
+11
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// DW
+0		12     0       1     0	     1	    7	     63		0       0   0       255		255		255		255		255
+end
+
+// Mốc Nạp 13
+12
+//Class	Index  Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+// 0 = Phù Thủy
+// 1 = Chiến Binh
+// 2 = Tiên Nữ
+// 3 = Đấu Sĩ
+// 4 = Chúa Tể
+// 5 = Thuật Sĩ
+// 6 = Thiết Binh
+// Phù Thủy
+0		3760   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+0		4272   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+0		4784   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+0		5296   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+0		5808   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+// Chiến Binh                                               
+1		3759   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+1		4271   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+1		4783   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+1		5295   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+1		5807   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255                                                         
+// Tiên Nữ                                                  
+2		3761   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+2		4273   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+2		4785   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+2		5297   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+2		5809   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+// Thuật Sĩ                                                 
+5		3762   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+5		4274   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+5		4786   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+5		5298   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+5		5810   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+// Đấu Sĩ                                                 
+3		4275   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+3		4787   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+3		5299   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+3		5811   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+// Chúa Tể                                                 
+4		3764   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+4		4276   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+4		4788   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+4		5300   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+4		5812   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+// Thiết Binh                                                
+6		3765   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+6		4277   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+6		4789   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+6		5301   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+6		5813   15       1     0	     1	    7	     63		5       0   0       255		255		255		255		255
+end

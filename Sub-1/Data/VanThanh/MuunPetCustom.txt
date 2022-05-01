@@ -1,0 +1,16 @@
+0
+//Year   Month   Day   DoW   Hour   Minute   Second
+	*      *      *    *     *      *        59
+end
+1
+// Debug
+     1  
+end
+2
+// HP(Pet-)
+      1    
+end
+3
+// HP(Pet+)
+     255
+end

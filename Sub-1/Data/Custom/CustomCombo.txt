@@ -1,0 +1,60 @@
+//=================================================================================================================
+//-- Combo to all Class System
+//-- Defina EnableComboToAllSwitch = 1 no common.dat para utilizar
+//-- Set EnableComboToAllSwitch = 1 in common.dat to enable
+//=================================================================================================================
+//-- Primary Skills
+//=================================================================================================================
+//   #SkillID - Veja no Skill.txt o ID da skill
+//=================================================================================================================
+0
+   19   // [DK] Falling Slash
+   20   // [DK] Lunge
+   21   // [DK] Uppercut
+   22   // [DK] Cyclone
+   23   // [DK] Slash
+   5    // [DW] Hell Fire
+   12   // [DW] Aqua Beam
+   13   // [DW] Blast
+   14   // [DW] Inferno
+   24   // [FE] Triple Shot
+   55   // [MG] Fire Slash
+   56   // [MG] Power Slash
+   57   // [MG] Spiral Slash
+   61   // [DL] Fire Brust
+   66   // [DL] Eletric Spark
+   214  // [SU] Drain Life
+   260  // [RF] Large Ring Blower
+   261  // [RF] Upper beast
+   270  // [RF] Phoenix shot
+end
+//=================================================================================================================
+//-- Secundary and thirty Skills
+//=================================================================================================================
+//   #SkillID - See Skill.txt to get Skill ID
+//=================================================================================================================
+1
+   41   // [DK] Twisting Slash
+   42   // [DK] Rageful Blow
+   43   // [DK] Death Stab
+   232  // [DK] Frozen Stab
+   344  // [DK] Blood Storm
+   38   // [DW] Decay
+   39   // [DW] Ice Storm
+   40   // [DW] Nova
+   52   // [FE] Penetration
+   235  // [FE] Five Shot
+   73   // [MG] Mana Rays
+   236  // [MG] Sword Slash
+   237  // [MG] Gigantic Storm
+   78   // [DL] Fire Scream
+   238  // [DL] Birds
+   62   // [DL] Earth Quake
+   215  // [SU] Chain Lightning
+   223  // [SU] Sahamutt
+   224  // [SU] Neil
+   225  // [SU] Ghost Phanton
+   230  // [SU] Red Storm
+   264  // [RF] Dragon lore
+   262  // [RF] Chain Driver
+end

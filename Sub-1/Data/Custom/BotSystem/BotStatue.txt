@@ -1,0 +1,9 @@
+0
+//Year   Month   Day   DoW   Hour   Minute   Second
+	*      *      *    *     23      59      0
+end
+//Index			Enabled	 Map 		ToadoX		ToadoY		 Dir		Rank 		TypeTop 
+//============================================================
+1
+	0			0			 0		 141		  127		 1		     1			   0    
+end

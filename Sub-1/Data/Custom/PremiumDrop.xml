@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ### PremiumDropSystem ###
+//	Enable: Activates or deactivates the system, 0/1
+//
+// ### ZenDropSystem::Group ###
+//	MapNumber: Номер карты
+//	MonsterClass: Индекс моба из Monster.txt
+//	MonsterLevelMin: Минимальный уровень моба
+//	MonsterLevelMax: Максимальный уровень моба
+//	PremiumLevel: Уровень премиума (0 - Нет премиума, 1 - Перый уровень, 2 - Второй, 3 - Третий уровень)
+//	TimeValue: Время на которое выдается премиум (В секундах)
+// TimeForBiggerAL: Время випа в секундах, для персонажа у которого уже есть вип более высшего уровня
+//	DropRate: Рейт дропа (0 - 1000000)
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<PremiumDrop Enable="1">
+
+	<!-- <Group MapNumber="-1"  MonsterClass="590" MonsterLevelMin="-1" MonsterLevelMax="-1" PremiumLevel="3" TimeValue="86400" TimeForBiggerAL="43200" DropRate="1000000"/>
+-->
+</PremiumDrop>

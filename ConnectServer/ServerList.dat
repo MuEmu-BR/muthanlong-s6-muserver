@@ -1,0 +1,6 @@
+//ServerCode	ServerName	ServerAddress		ServerPort	ServerType
+0		"Server_1"	"192.168.0.200"		55901		"SHOW"
+1		"Server_2"	"192.168.0.200"		55903		"SHOW"
+19		"Server_1_CS"	"192.168.0.200"		55919		"SHOW"
+end
+

@@ -1,0 +1,7 @@
+// danh sách pet cấp 1
+0
+//	Type 	Index      WcoinC     GiaAFKPetmuun
+
+    13       204         100           50
+
+end

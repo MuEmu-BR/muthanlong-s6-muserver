@@ -1,0 +1,19 @@
+//=================================================================================================================
+//-- Definições do Ranking
+//=================================================================================================================
+//  RankIndex ->  Index do Ranking
+//  Name      ->  Titulo do Rank
+//  ResetMin  ->  Minimo de Resets para determinado Rank
+//  ResetMin  ->  Maximo de Resets para determinado Rank
+//  Cash      ->  Premiação em Cash ao antigir a patente
+//  Gold      ->  Premiação em Gold ao antigir a patente
+//  PcPoint   ->  Premiação em PcPoint ao antigir a patente
+//=================================================================================================================
+//-- Obs: Obrigatorio o Ultimo Rank o ResetMax ter o valor (-1)
+//=================================================================================================================
+
+//=================================================================================================================
+//     #RankIndex          #Name            #ResetMin        #ResetMax       #Cash      #Gold     #PcPoint		 
+//=================================================================================================================
+0
+end

@@ -1,0 +1,81 @@
+0
+//Index   ItemIndex   Comment
+0         7423        //Titan's Anger
+1         7424        //Tantalose's Punishment
+
+2         7425        //Erohim's Nightmare
+3         7426        //Hell Maine's Insanity
+4         7427        //Kundun's Greed
+5         7428        //Special Evomon
+
+6         7593        //Snake lvl 1
+7         7594        //Snake lvl 2
+8         7595        //Snake lvl 3
+9         7596        //Snake lvl 4
+
+//0         7730        //Summon Scroll Lv1
+//1         7379        //Summon Scroll Lv2
+//2         7380        //Summon Scroll Lv3
+//3         7381        //Summon Scroll Lv4
+//4         7382        //Titan's Anger
+//5         7383        //Tantalose's Punishment
+//6         7384        //Erohim's Nightmare
+//7         7385        //Hell Maine's Insanity
+//8         7386        //Kundun's Greed
+//9         7387        //Book of Monster Invocation
+//10        7393         //The Lizard's King Anger
+end
+
+1
+//Index   Group   MonsterClass   CreateRate   Comment
+0         0       796            10000        //Golden Titan
+
+//Index   Group   MonsterClass   CreateRate   Comment
+1         0       797            10000        //Golden Tantalose
+
+//Index   Group   MonsterClass   CreateRate   Comment
+2         0       798            10000        //Golden Erohim
+
+//Index   Group   MonsterClass   CreateRate   Comment
+3         0       799            10000        //Golden Hell Maine
+
+//Index   Group   MonsterClass   CreateRate   Comment
+4         0       800            10000        //Golden Kundun
+4         1       797            10000        //Golden Tantalose
+4         2       797            10000        //Golden Tantalose
+4         3       797            10000        //Golden Tantalose
+4         4       797            10000        //Golden Tantalose
+
+//Index   Group   MonsterClass   CreateRate   Comment
+5         0       737            10000        //Special Evomon
+
+//Index   Group   MonsterClass   CreateRate   Comment
+6         0       801            10000        //Snake Event
+7         0       802            10000        //Snake Event
+8         0       803            10000        //Snake Event
+9         0       804            10000        //Snake Event
+
+//0         0       904            10000      //Golden Derkon
+//1         0       497            10000      //Satyros
+//2         0       499            10000      //Golden Iron Knight
+//3         0       501            10000      //Great Golden Dragon
+//4         0       053            10000      //Golden Titan
+//4         1       054            10000      //Golden Soldier
+//5         0       082            10000      //Golden Tantalos
+//5         1       083            10000      //Golden Wheel
+//6         0       295            10000      //Erohim
+//7         0       309            10000      //Hell Maine
+//8         0       275            10000      //Kundun
+//8         1       082            10000      //Illusion of Kundun
+//8         2       082            10000      //Illusion of Kundun
+//8         3       082            10000      //Illusion of Kundun
+//8         4       082            10000      //Illusion of Kundun
+//9         0       043            10000      //Golden Budge Dragon
+//9         1       078            10000      //Golden Goblin
+//9         2       493            10000      //Golden Dark Knight
+//9         3       494            10000      //Golden Devil
+//9         4       495            10000      //Golden Stone Golem
+//9         5       496            10000      //Golden Crust
+//10     0     80       10000      //Golden Lizard King
+//10     1     81       1000000      //Golden Vepar
+end

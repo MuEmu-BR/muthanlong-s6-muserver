@@ -1,0 +1,21 @@
+0
+//Index   Year   Month   Day   DoW   Hour   Minute   Second
+//-----------------------------------------------------------------
+0         *      *       *     *      *     25        0
+//-----------------------------------------------------------------
+end
+
+1
+//Index   RespawnMessage   DespawnMessage   BossIndex   BossMessage   InvasionTime
+//-----------------------------------------------------------------
+end
+
+2
+//Index   Group   Map   Value
+//-----------------------------------------------------------------
+end
+
+3
+//Index   Group   MonsterClass   RegenType   RegenTime
+//-----------------------------------------------------------------
+end

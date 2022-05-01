@@ -1,0 +1,40 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 003 - Harold the Wandering Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+8	5	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Leather Armor
+8	6	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Scale Armor
+8	4	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Bone Armor
+8	15	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Crow Armor
+10	6	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Scale Gloves
+10	4	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Bone Gloves
+10	5	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Leather Gloves
+10	15	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Crow Gloves
+9	6	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Scale Pants
+9	4	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Bone Pants
+9	5	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Leather Pants
+9	15	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Crow Pants
+11	6	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Scale Boots
+11	4	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Bone Boots
+11	5	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Leather Boots
+11	15	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Crow Boots
+5	5	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Legendary Staff
+13	1	0	0	0	1	0	0 0 0 0 0 0 0 0 0	//Imp
+13	0	0	0	0	1	0	0 0 0 0 0 0 0 0 0	//Guardian Angel
+5	6	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Staff of Resurrection
+//0	31	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Rune Blade
+14	3	0	50	0	1	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	6	0	50	0	1	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+0	18	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Thunder Blade
+12	7	0	255	0	0	0	0 0 0 0 0 0 0 0 0	//Orb of Twisting Slash
+
+//desativado
+//12      16      0       0       0       0       0       0 0 0 0 0 0 0 0 0       //Fire Slash
+//12      47      0       0       0       0       0       0 0 0 0 0 0 0 0 0       //flame strike
+//15      29      0       0       0       0       0       0 0 0 0 0 0 0 0 0       //giga storm
+15      8       0       0       0       0       0       0 0 0 0 0 0 0 0 0       //evil spirits
+
+end

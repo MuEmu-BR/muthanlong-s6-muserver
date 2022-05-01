@@ -1,0 +1,44 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 007 - Isabel the Wizard
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+
+14 0 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Apple 
+14 1 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Small Healing 
+14 2 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Medium Healing 
+14 3 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 4 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Small Mana 
+14 5 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Medium Mana 
+14 6 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana 
+14 8 0 50  0 0 0 0 0 0 0 0 0 0 0 0 //Antidote 
+
+13 10 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Dino Transformation Ring 
+13 10 1 255 0 0 0 0 0 0 0 0 0 0 0 0 //Giant Transformation Ring  
+13 10 3 255 0 0 0 0 0 0 0 0 0 0 0 0 //Bull Transformation Ring 
+13 10 4 255 0 0 0 0 0 0 0 0 0 0 0 0 //Mage Transformation Ring 
+13 10 5 255 0 0 0 0 0 0 0 0 0 0 0 0 //Death Bull Transformation Ring 
+
+13 12 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Lightning Necklace 
+13 13 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Fire Necklace 
+13 25 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Pendant of Ice
+13 26 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Pendant of Wind
+13 27 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Pendant of Water
+13 28 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Pendant of Ability
+
+13 21 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Ring of Fire
+13 22 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Ring of Earth
+13 23 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Ring of Wind
+13 8  0	255 0 0	4 0 0 0 0 0 0 0 0 0 //Ring of Ice
+13 9  0	255 0 0	4 0 0 0 0 0 0 0 0 0 //Ring of Poison
+13 24 0 255 0 0 4 0 0 0 0 0 0 0 0 0 //Ring of Magic
+
+//desativado
+//0 17 2 255 1 1 1 0 0 0 0 0 0 0 0 0 //Dragon Slayer 
+//5 9  2 255 0 1 1 0 0 0 0 0 0 0 0 0 //Dragon Soul Staff
+//4 21 2 255 1 1 1 0 0 0 0 0 0 0 0 0 //Sylph Wind Bow
+//2 12 2 255 1 1 1 0 0 0 0 0 0 0 0 0 //Great Lord Scepter 
+//0 21 2 255 1 1 1 0 0 0 0 0 0 0 0 0 //Dark Reign Blade
+end

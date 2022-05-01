@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MSGThongBao IndexMesMin="2050" IndexMesMax="2060"/>
+
+<AddRank VipNhanVat="2" VipNhanVatTime="1440"/>
+
+<!--- Ghi Chu
+	SkillID = Skill De Train, PK
+	UseBuffs = Skill Dung De Buff TOi Da  3 Skill
+	GateNumber = Index Gate de Move Map , MapX, MapY : Toa do X,Y
+	PhamViTrain = Pham Vi Danh QUai Max (6)
+	MoveRange = La Pham Vi Di Chuyen TU Do Trong Map Luu Y : neu cho phep di Ranage thi can set TimeReturn cao lên
+	TimeReturn = Thoi gian quay lai Toa vi tri cu (MapX,MapY) Tính bằng Phút
+	PVPMode  = 1 (Tự động đánh trả khi bị đánh), 2 (Kill tât cả người chơi trong phạm vi, tự động xóa tội nếu PK 10), 0 Là tắt
+	PartyMode =  1 (Tự động chấp nhận yêu cầu Party), 2 (Tự động Party người chơi xung quanh), 0 là tắt không Party, 3 (Chỉ Gửi Yêu Cầu party nếu là Fake Online)
+	PostKhiDie =  1 (Tự động Chat Post khi bị giết)
+-->
+<FakeOnlineData>
+	<Info Account="2" Password="2" Name="123123" SkillID="43" UseBuffs_0="48"  	UseBuffs_1="0"  UseBuffs_2="0"   GateNumber="6" MapX="54" MapY="112"  PhamViTrain="6"  MoveRange="1" TimeReturn="1" TuNhatItem="1" TuDongReset="1" PartyMode = "1" PVPMode="1"  PostKhiDie = "1"  />
+</FakeOnlineData>

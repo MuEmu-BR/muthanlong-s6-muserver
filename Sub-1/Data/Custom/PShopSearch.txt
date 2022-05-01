@@ -1,0 +1,5 @@
+[Common]
+NPC_CLASS = 380
+NPC_MAP = 0
+NPC_X = 130
+NPC_Y = 146

@@ -1,0 +1,26 @@
+0
+//MonsterClass	Skill1	Skill2
+// 232 Chém Băng
+// 43  Đâm Gió
+
+34				17 		0   // bat buoc skill1 = 17 doi voi MonsterClass = 34
+
+700				232 	0  // Chém Băng
+701				39		0  // Mưa sao băng
+702				235 	0  // Fiveshoot
+703				237 	0  // Sấm sét
+704				61		0  // Quang Xich
+705				214 	0  // hut mau
+706				264 	0  // ao anh
+
+707				237 	0  //
+799				46   	0  //
+800				9   	0  // Triệu tập linh hồn
+801				39   	0  // Mưa Sao Băng
+802				78   	0  // Sấm sét
+803				237   	0  // Sấm sét
+804				232   	0  // Chém Băng
+805				223   	0  // Buff
+806				67   	0  // Chém Băng
+
+end

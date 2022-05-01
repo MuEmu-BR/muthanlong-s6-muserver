@@ -1,0 +1,651 @@
+[GameServerInfo]
+;==================================================
+; Customer Settings
+;==================================================
+CustomerName = Bexo
+CustomerHardwareId = 94B6CB56-C0822969-F45BEEBA-B543D8F7
+	
+;==================================================
+; Server Settings
+;==================================================
+ServerName = Server_1
+ServerCode = 0
+ServerLock = 0
+ServerPort = 55901
+ServerVersion = 1.04.05
+ServerSerial = TbYehR2hFUPBKgZj
+ServerMaxUserNumber = 100     ;số người được phép vào sub
+ServerLanguage = 0            
+ServerMinLevel = 0            ;LV nhỏ nhất được vào sub
+ServerMaxLevel = 0            ;LV cao nhất được vào sub ( = 0 thi k giới hạn )
+ServerMinReset = 0            ;RS nhỏ nhất được vào sub
+ServerMaxReset = 0            ;RS cao nhất được vào sub ( = 0 thi k giới hạn )
+ServerMinMasterReset = 0
+ServerMaxMasterReset = 0
+
+;==================================================
+; Connection Settings
+;==================================================
+DataServerAddress = 127.0.0.1
+DataServerPort = 55960
+JoinServerAddress = 127.0.0.1
+JoinServerPort = 55970
+ConnectServerAddress = 127.0.0.1
+ConnectServerPort = 55557
+
+;==================================================
+; CRC Check
+;==================================================
+GameGuardCRC = 0x0 // 0 - Disabled
+VerifyCRC = 0x0 // 0 - Disabled
+MainDLLCRC = 0x0 // 0 - Disabled
+MainEXECRC = 0x0 // 0 - Disabled
+
+;==================================================
+; Log Settings
+;==================================================
+WriteChatLog = 1
+WriteCommandLog = 0
+WriteTradeLog = 0
+WriteConnectLog = 0
+WriteHackLog = 0
+WriteCashShopLog = 0
+WriteChaosMixLog = 0
+WriteSystemAntifloodLog = 0
+WriteResetLog = 0
+WriteGrandResetLog = 0
+WriteTienTeLog    = 1
+WriteKetNoiLog    = 1
+WriteThuMuaExcLog = 1
+
+;==================================================
+; AntiFlood Settings
+;==================================================
+MaxIpConnection = 10
+IpLimitConnectionTime = 1000
+IpConnectionBlockedTime = 300000
+
+;==================================================
+; Hack Settings
+;==================================================
+CheckSpeedHack = 0						;Hệ thống kiểm tra tốc độ tấn công (0=Off/1=On).
+CheckSpeedHackTolerance = 250					;Dùng sai tốc độ tấn công tối đa.
+CheckLatencyHack = 1					    ;Hệ thống kiểm tra độ trễ kết nối (0=Off/1=On).
+CheckLatencyHackTolerance = 2000				;Dùng sai độ trễ tối đa.
+CheckAutoPotionHack = 1			    	;Hệ thống kiểm tra sử dụng thuốc (0=Off/1=On).
+CheckAutoPotionHackTolerance = 300		    ;Thời gian hồi chiêu giữa thời gian sử dụng thuốc (Miliseconds).
+CheckAutoComboHack = 1						;Hệ thống kiểm tra sử dụng kết hợp(0=Off/1=On).
+CheckAutoComboHackTolerance = 10			    ;Thời gian hồi chiêu giữa thời gian sử dụng kết hợp (Miliseconds)
+
+;==================================================
+; Hack Speed Skill Settings (HackSkillCheck.txt)
+; Types:
+; 0: Show message in log only
+; 1: Disconnect User
+; 2: Disable Attack
+; 3: Disable attack by x miliseconds
+;==================================================
+SpeedHackSkillEnable = 0		;Bật/Tắt
+SpeedHackSkillType = 3			;(0 = Chỉ hiển thị thông báo trong nhật ký / 1 = Ngắt kết nối người dùng / 2 = Tắt tấn công / 3 = Vô hiệu hóa tấn
+SpeedHackSkillPenalty = 5000	;thời gian để vô hiệu hóa cuộc tấn công.
+SpeedHackSkillDialog = 0 		;Hiển thị thông báo cho người chơi (0 = Tắt / 1 = Bật).
+SpeedHackSkillDebug = 0
+
+;==================================================
+; Common Settings
+;==================================================
+MaxIpConnection = 10
+MaxHwidConnection_AL0 = 10						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL1 = 10						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL2 = 10						;Max number of connections with the same HardwareID.
+MaxHwidConnection_AL3 = 10						;Max number of connections with the same HardwareID.
+
+MaxItemOption = 7      ;Max Op Của Item
+PersonalCodeCheck = 0  ;Kiểm tra mã cá nhân (0 = Tắt / 1 = Bật)
+GuardMessage = Welcome to MU Online!
+
+;==================================================
+; Enable Accept Harmony + Socket
+;==================================================
+SetItemAcceptHarmonySwitch = 1      ;Mục Thần Thánh Hỗ trợ Dòng Vàng (0 = Tắt / 1 = Bật)
+SocketItemAcceptHarmonySwitch = 1 
+AllowSocketHarmony = 1
+
+;==================================================
+; Monster Settings
+;==================================================
+MonsterLifeRate = 100                           ;Tăng Máu Cho Toàn bộ monster.txt. Danh nghĩa = 100
+MonsterDamageRate = 100							;Monster base damage percentage.
+MonsterDefenseRate = 100						;Monster base defense percentage.
+
+;==================================================
+; Health Bar
+;==================================================
+MonsterHealthBarSwitch = 1
+UserHealthBarSwitch = 1
+
+;==================================================
+; PK Settings
+;==================================================
+NonPK = 0
+PKLimitCount = 9999
+PKLimitFree = 0
+PKDownTime1 = 3600
+PKDownTime2 = 7200
+
+;==================================================
+; Trade Settings
+;==================================================
+TradeSwitch = 1    ; Hệ thống giao dịch (0 = Tắt / 1 = Bật)
+
+;==================================================
+; Personal Shop Settings
+;==================================================
+PersonalShopSwitch = 1  ; Hệ thống Cửa hàng cá nhân (0 = Tắt / 1 = Bật)
+
+;==================================================
+; Duel Settings
+;==================================================
+DuelSwitch = 1                         ;Trạng thái hệ thống đấu tay đôi (0 = Tắt / 1 = Bật)
+DuelArenaAnnounceSwitch = 1            ;Duel bắt đầu thông báo (0 = Tắt / 1 = Bật)
+DuelArenaDisableRestoreHP = 0
+DuelArenaDisableRestoreSD = 0
+
+;==================================================
+; Guild Settings
+;==================================================
+GuildCreateSwitch = 1	      ;tạo bang (0 = Tắt / 1 = Bật)		
+GuildDeleteSwitch = 1         ;Bang xóa trạng thái (0 = Tắt / 1 = Bật)
+GuildCreateMinLevel = 100     ;Cấp tối thiểu cần thiết để tạo bang hội.
+GuildInsertMaxUser1 = 40      ;Thành viên tối đa
+GuildInsertMaxUser2 = 80      ;Thành viên bang hội tối đa (Dark Lord GuildMaster)
+GuildAllianceMinUser = 1      ;Thành viên bang hội tối thiểu cần thiết để tạo liên minh
+GuildAllianceMaxCount = 5     ;Số lượng bang hội tối đa trong một liên minh
+GuildOwnerDestroyLimit = 1    ;Bang hội chủ sở hữu CastleSiege xóa trạng thái (0 = Tắt / 1 = Bật)
+
+;==================================================
+; Elf Buffer Settings
+;==================================================
+ElfBufferEnableQuest = 0
+ElfBufferMaxLevel_AL0 = 200
+ElfBufferMaxLevel_AL1 = 200
+ElfBufferMaxLevel_AL2 = 200
+ElfBufferMaxLevel_AL3 = 250
+ElfBufferMaxReset_AL0 = 10000
+ElfBufferMaxReset_AL1 = 10000
+ElfBufferMaxReset_AL2 = 10000
+ElfBufferMaxReset_AL3 = 10000
+ElfBufferTime_AL0 = 1800					;Buff time (Free).
+ElfBufferTime_AL1 = 1800					;Buff time (Vip1).
+ElfBufferTime_AL2 = 1800					;Buff time (Vip2).
+ElfBufferTime_AL3 = 1800					;Buff time (Vip3).
+ElfBufferDamageConstA = 50
+ElfBufferDamageConstB = 5
+ElfBufferDefenseConstA = 45
+ElfBufferDefenseConstB = 3
+
+;==================================================
+; Experience Settings
+;==================================================
+AddExperienceRate_AL0 = 5000                   ;Kinh Nghiệm Khi /Reset (Miễn phí).
+AddExperienceRate_AL1 = 5000                   ;Kinh Nghiệm Khi /Reset (Vip 1).
+AddExperienceRate_AL2 = 5000                   ;Kinh Nghiệm Khi /Reset (Vip 2).
+AddExperienceRate_AL3 = 5000                   ;Kinh Nghiệm Khi /Reset (Vip 3).
+
+AddMasterExperienceRate_AL0 = 100                   ; Kinh Nghiệm Mater  (Miễn phí).
+AddMasterExperienceRate_AL1 = 100                   ; Kinh Nghiệm Mater  (Vip 1).
+AddMasterExperienceRate_AL2 = 100                   ; Kinh Nghiệm Mater  (Vip 2).
+AddMasterExperienceRate_AL3 = 100                   ; Kinh Nghiệm Mater  (Vip 3).
+
+MinMasterExperienceMonsterLevel_AL0 = 95             ;Cấp Độ Qoái Vật Khi Trian Được Kinh Nghiệm  MasTer  (Miễn phí).
+MinMasterExperienceMonsterLevel_AL1 = 95             ;Cấp Độ Qoái Vật Khi Trian Được Kinh Nghiệm  MasTer  (Vip 1).
+MinMasterExperienceMonsterLevel_AL2 = 95             ;Cấp Độ Qoái Vật Khi Trian Được Kinh Nghiệm  MasTer  (Vip 2).
+MinMasterExperienceMonsterLevel_AL3 = 95             ;Cấp Độ Qoái Vật Khi Trian Được Kinh Nghiệm  MasTer  (Vip 3).
+
+AddEventExperienceRate_AL0 = 5000
+AddEventExperienceRate_AL1 = 5000
+AddEventExperienceRate_AL2 = 5000
+AddEventExperienceRate_AL3 = 5000
+
+AddQuestExperienceRate_AL0 = 5000
+AddQuestExperienceRate_AL1 = 5000
+AddQuestExperienceRate_AL2 = 5000
+AddQuestExperienceRate_AL3 = 5000
+
+OffAttackExperienceRate_AL0 = 5000
+OffAttackExperienceRate_AL1 = 5000
+OffAttackExperienceRate_AL2 = 5000
+OffAttackExperienceRate_AL3 = 5000
+
+AutoResetExperienceRate_AL0 = 5000				;Kinh Nghiệm Khi /Reset Auto (Miễn phí).
+AutoResetExperienceRate_AL1 = 5000              ;Kinh Nghiệm Khi /Reset Auto (Vip 1).
+AutoResetExperienceRate_AL2 = 5000              ;Kinh Nghiệm Khi /Reset Auto (Vip 2).
+AutoResetExperienceRate_AL3 = 5000              ;Kinh Nghiệm Khi /Reset Auto (Vip 3).
+
+;==================================================
+; Cài đặt thả vật phẩm
+;==================================================
+ItemDropTime = 20           ;Thời gian để các mặt hàng biến mất trên mặt đất.
+ItemDropRate_AL0 = 10       ;Cơ hội để thả vật phẩm từ quái vật (Miễn phí).
+ItemDropRate_AL1 = 10       ;Cơ hội để thả vật phẩm từ quái vật (Vip 1).
+ItemDropRate_AL2 = 13       ;Cơ hội để thả vật phẩm từ quái vật (Vip 2).
+ItemDropRate_AL3 = 15       ;Cơ hội để thả vật phẩm từ quái vật (Vip 3).
+
+;==================================================
+; Cài đặt Rớt Zen
+;==================================================
+MoneyDropTime = 15               ;Thời gian để zen biến mất trên mặt đất.
+MoneyAmountDropRate_AL0 = 50     ;Tỷ lệ Zen sẽ giảm từ quái vật (Miễn phí).
+MoneyAmountDropRate_AL1 = 50     ;Tỷ lệ phần trăm Zen sẽ giảm từ quái vật (Vip1).
+MoneyAmountDropRate_AL2 = 50     ;Tỷ lệ phần trăm Zen sẽ giảm từ quái vật (Vip2).
+MoneyAmountDropRate_AL3 = 50     ;Tỷ lệ phần trăm Zen sẽ giảm từ quái vật (Vip3).
+
+;==================================================
+; Không Sử Dụng Cùng Với custom ZenDrop.xml
+; Nếu MoneyValue > 0 thi ra đưa Vào công thức ở dưới:
+; Zen Drop = (MoneyValue*MonterLevel) + % ItemBonus
+;==================================================
+MoneyValue_AL0 = 1000
+MoneyValue_AL1 = 1000
+MoneyValue_AL2 = 1000
+MoneyValue_AL3 = 1000
+
+;==================================================
+; Cài đặt độ bền vật phẩm
+;==================================================
+WeaponDurabilityRate = 50000          ;Độ bền vũ khí giảm phần trăm.
+ArmorDurabilityRate = 100           ;Độ bền giảm giáp.
+WingDurabilityRate = 100            ;Độ bền cánh giảm phần trăm.
+GuardianDurabilityRate = 100        ;Độ bền bảo vệ giảm phần trăm.
+PendantDurabilityRate = 100         ;Độ bền mặt dây chuyền giảm phần trăm.
+RingDurabilityRate = 100            ;Độ bền vòng giảm phần trăm.
+PetDurabilityRate = 500             ;Dark Lord độ bền vật nuôi giảm phần trăm
+MuunDurabilityRate = 500
+
+;==================================================
+; Trade Item Block Settings
+;==================================================
+TradeItemBlock = 0              ;Trạng thái hệ thống khối vật phẩm thương mại (0 = Tắt / 1 = Bật).
+TradeItemBlockExc = 0           ;Chặn các mặt hàng xuất sắc trong giao dịch (0 = Không / 1 = Có).
+TradeItemBlockSet = 0           ;Chặn các mục thiết lập khi giao dịch (0 = Không / 1 = Có).
+TradeItemBlockHarmony = 0       ;Chặn các mục hài hòa trong giao dịch (0 = Không / 1 = Có).
+TradeItemBlockSell = 0          ;Các mặt hàng bị chặn thương mại không thể được bán (0 = Không / 1 = Có).
+TradeItemBlockLucky = 0
+
+;==================================================
+; Level Up Settings
+;==================================================
+MaxLevelUp = 1                      ;Số lượng cấp độ tối đa có thể nhận được cùng một lúc.
+MaxLevelUpEvent = 1                 ;Số lượng cấp độ tối đa có thể nhận được cùng một lúc với trải nghiệm sự kiện.
+MaxLevelUpQuest = 1                 ;Số lượng cấp độ tối đa có thể nhận được cùng một lúc với trải nghiệm sự kiện.
+MaxStatPoint_AL0 = 100000          ;Điểm tối đa được phép (Miễn phí).
+MaxStatPoint_AL1 = 100000          ;Điểm tối đa được phép (Vip 1).
+MaxStatPoint_AL2 = 100000          ;Điểm tối đa được phép (Vip 2).
+MaxStatPoint_AL3 = 100000          ;Điểm tối đa được phép (Vip 3).
+MaxStatPointCMD_AL0 = 32767
+MaxStatPointCMD_AL1 = 32767
+MaxStatPointCMD_AL2 = 32767
+MaxStatPointCMD_AL3 = 32767
+DWLevelUpPoint = 0                 ;Điểm nhận được bởi DW mỗi cấp độ.
+DKLevelUpPoint = 0                 ;Điểm nhận được bởi DK mỗi cấp độ.
+FELevelUpPoint = 0                 ;Điểm nhận được bởi Elf mỗi cấp độ.
+MGLevelUpPoint = 0                 ;Điểm nhận được bởi MG mỗi cấp độ.
+DLLevelUpPoint = 0                 ;Điểm nhận được bởi DL mỗi cấp độ.
+SULevelUpPoint = 0                 ;Điểm nhận được bởi SUM mỗi cấp độ.
+RFLevelUpPoint = 0                 ;Điểm nhận được bởi RF mỗi cấp độ.
+PlusStatPoint = 0                  ;Điểm thưởng nhận được mỗi cấp sau khi thực hiện nhiệm vụ Marlon.
+
+;==================================================
+; Create Character Settings
+;==================================================
+CharacterCreateSwitch = 1
+MGCreateType = 0				
+DLCreateType = 0		
+SUCreateType = 0
+RFCreateType = 0
+MGCreateLevel_AL0 = 220
+MGCreateLevel_AL1 = 220
+MGCreateLevel_AL2 = 220
+MGCreateLevel_AL3 = 220
+MGCreateReset_AL0 = 0
+MGCreateReset_AL1 = 0
+MGCreateReset_AL2 = 0
+MGCreateReset_AL3 = 0
+MGCreateMasterReset_AL0 = 0
+MGCreateMasterReset_AL1 = 0
+MGCreateMasterReset_AL2 = 0
+MGCreateMasterReset_AL3 = 0
+DLCreateLevel_AL0 = 250
+DLCreateLevel_AL1 = 250
+DLCreateLevel_AL2 = 250
+DLCreateLevel_AL3 = 250
+DLCreateReset_AL0 = 0
+DLCreateReset_AL1 = 0
+DLCreateReset_AL2 = 0
+DLCreateReset_AL3 = 0
+DLCreateMasterReset_AL0 = 0
+DLCreateMasterReset_AL1 = 0
+DLCreateMasterReset_AL2 = 0
+DLCreateMasterReset_AL3 = 0
+SUCreateLevel_AL0 = 0
+SUCreateLevel_AL1 = 0
+SUCreateLevel_AL2 = 0
+SUCreateLevel_AL3 = 0
+SUCreateReset_AL0 = 0
+SUCreateReset_AL1 = 0
+SUCreateReset_AL2 = 0
+SUCreateReset_AL3 = 0
+SUCreateMasterReset_AL0 = 0
+SUCreateMasterReset_AL1 = 0
+SUCreateMasterReset_AL2 = 0
+SUCreateMasterReset_AL3 = 0
+RFCreateLevel_AL0 = 150
+RFCreateLevel_AL1 = 150
+RFCreateLevel_AL2 = 150
+RFCreateLevel_AL3 = 150
+RFCreateReset_AL0 = 0
+RFCreateReset_AL1 = 0
+RFCreateReset_AL2 = 0
+RFCreateReset_AL3 = 0
+RFCreateMasterReset_AL0 = 0
+RFCreateMasterReset_AL1 = 0
+RFCreateMasterReset_AL2 = 0
+RFCreateMasterReset_AL3 = 0
+
+;==================================================
+; Shield Gauge Settings
+;==================================================
+ShieldGaugeRate = 90            ;Tỷ lệ sát thương gây ra cho Shield Shield trên PvP.
+ShieldGaugeConstA = 12          ;Khiên công thức lượng không đổi.
+ShieldGaugeConstB = 15          ;Khiên công thức lượng không đổi.
+ShieldGaugeAttackRate = 2       ;Khiên công thức tỷ lệ thành công không đổi.
+ShieldGaugeAttackComboMiss = 0  ;Combo bỏ lỡ nếu bất kỳ phép thuật nào của nó cũng bỏ lỡ (0 = Không / 1 = Có).
+
+;==================================================
+; Master Skill Tree Settings
+;==================================================
+MasterSkillTree = 1            ;Trạng thái hệ thống Master Skill Tree (0 = Tắt / 1 = Bật).
+MasterSkillTreePoint = 1       ;Điểm Tăng cấp.
+MasterSkillTreeMaxLevel = 600  ;Cấp bậc tối đa.
+
+;==================================================
+; Gens System Settings
+;==================================================
+GensSystemSwitch = 1
+GensSystemGuildLock = 0
+GensSystemPartyLock = 0
+GensSystemInsertMinLevel = 50
+GensSystemContributionFloodTime = 30
+GensSystemVictimContributionDecrease = 3
+GensSystemKillerContributionIncrease = 500
+GensSystemVictimMinContributionDecrease = 1
+GensSystemVictimMaxContributionDecrease = 15
+GensSystemKillerMinContributionIncrease = 1
+GensSystemKillerMaxContributionIncrease = 15
+GensSystemStartRewardDay = 1
+GensSystemFinalRewardDay = 7
+GensSystemExitTime_AL0 = 0					;Time (in minutes), after which you can join Gens, after coming out of it (Free).
+GensSystemExitTime_AL1 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip1).
+GensSystemExitTime_AL2 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip2).
+GensSystemExitTime_AL3 = 0					;Time (in minutes), after which you can join Gens, after coming out of it.(Vip3).
+GensSystemSelfGensDamage = 1					;Can attack self Gens.
+
+;==================================================
+; Helper Settings
+;==================================================
+HelperSwitch = 1
+HelperActiveLevel = 1
+HelperActiveDelay = 5
+HelperActiveMoney1 = 20
+HelperActiveMoney2 = 50
+HelperActiveMoney3 = 80
+HelperActiveMoney4 = 100
+HelperActiveMoney5 = 120
+
+;==================================================
+; Cash Shop Settings
+;==================================================
+CashShopSwitch = 1                 ;Trạng thái hệ thống CashShop (0 = Tắt / 1 = Bật).
+CashShopScriptVersion1 = 512
+CashShopScriptVersion2 = 2011
+CashShopScriptVersion3 = 6
+CashShopBannerVersion1 = 583
+CashShopBannerVersion2 = 2010
+CashShopBannerVersion3 = 5
+
+;==================================================
+; Reward Online Users
+; WCoinC (WC)
+; WCoinP (WP)
+; GoblinPoint (GP)
+; Ruud (Ruud)
+; Delay in Minutes
+;==================================================
+OnlineRewardCoinsDelay = 0 ; 60
+OnlineRewardWCoinCValue_AL0 = 0
+OnlineRewardWCoinCValue_AL1 = 0
+OnlineRewardWCoinCValue_AL2 = 0
+OnlineRewardWCoinCValue_AL3 = 0
+OnlineRewardWCoinPValue_AL0 = 0
+OnlineRewardWCoinPValue_AL1 = 0
+OnlineRewardWCoinPValue_AL2 = 0
+OnlineRewardWCoinPValue_AL3 = 0
+OnlineRewardGoblinPointValue_AL0 = 0 ;10
+OnlineRewardGoblinPointValue_AL1 = 0 ;12
+OnlineRewardGoblinPointValue_AL2 = 0 ;15
+OnlineRewardGoblinPointValue_AL3 = 0 ;20
+OnlineRewardRuudValue_AL0 = 0
+OnlineRewardRuudValue_AL1 = 0
+OnlineRewardRuudValue_AL2 = 0
+OnlineRewardRuudValue_AL3 = 0
+
+;==================================================
+; Party Settings
+; Active RestrictRequest
+; Funtion DifferenceLevel
+;==================================================
+PartyReconnectTime = 300
+
+PartyGeneralExperience1 = 100
+PartyGeneralExperience2 = 80
+PartyGeneralExperience3 = 75
+PartyGeneralExperience4 = 65
+PartyGeneralExperience5 = 60
+PartyGeneralExperience6 = 60
+PartyGeneralExperience7 = 60
+PartyGeneralExperience8 = 60
+PartyGeneralExperience9 = 60
+PartyGeneralExperience10 = 60
+
+PartySpecialExperience1 = 100
+PartySpecialExperience2 = 80
+PartySpecialExperience3 = 75
+PartySpecialExperience4 = 65
+PartySpecialExperience5 = 60
+PartySpecialExperience6 = 60
+PartySpecialExperience7 = 60
+PartySpecialExperience8 = 60
+PartySpecialExperience9 = 60
+PartySpecialExperience10 = 60
+
+;PartyDisablePK           = 1                ;Trạng thái Pk trong PT (0 = PK / 1 = Tắt PK).
+RestrictRequest         = 0
+DifferenceMaxLevel = 0
+PartyMaxMembers = 10
+PartyTeleportSwitch = 1
+PartyTeleportMoney = 500000
+
+;==================================================
+; Potion Settings
+;==================================================
+ApplePotionRate = 10
+SmallLifePotionRate = 20
+MidleLifePotionRate = 30
+LargeLifePotionRate = 40
+SmallManaPotionRate = 20
+MidleManaPotionRate = 30
+LargeManaPotionRate = 40
+SmallShieldPotionRate = 25
+MidleShieldPotionRate = 35
+LargeShieldPotionRate = 45
+SmallCompoundPotionRate1 = 10
+SmallCompoundPotionRate2 = 5
+MidleCompoundPotionRate1 = 25
+MidleCompoundPotionRate2 = 10
+LargeCompoundPotionRate1 = 45
+LargeCompoundPotionRate2 = 20
+EliteLifePotionRate = 100
+EliteManaPotionRate = 100
+EliteShieldPotionRate = 65
+PotionDelay = 300						;Limiter drink potions, 1000 = 1 second
+
+;==================================================
+; Transformation Ring Settings
+;==================================================
+TransformationRing1 = 2
+TransformationRing2 = 7
+TransformationRing3 = 14
+TransformationRing4 = 8
+TransformationRing5 = 9
+TransformationRing6 = 41
+
+;==================================================
+; Jewel Settings
+;==================================================
+SoulSuccessRate_AL0 = 50                     ;Tỷ lệ thành công của Jewel of Soul (Miễn phí)
+SoulSuccessRate_AL1 = 50                     ;Tỷ lệ thành công của Jewel of Soul (Vip1).
+SoulSuccessRate_AL2 = 50                     ;Tỷ lệ thành công của Jewel of Soul (Vip2).
+SoulSuccessRate_AL3 = 70                     ;Tỷ lệ thành công của Jewel of Soul (Vip3).
+LifeSuccessRate_AL0 = 60                     ;Tỷ lệ thành công của Jewel of Life (Miễn phí).
+LifeSuccessRate_AL1 = 60                     ;Tỷ lệ thành công của Jewel of Life (Vip1).
+LifeSuccessRate_AL2 = 60                     ;Tỷ lệ thành công của Jewel of Life (Vip2).
+LifeSuccessRate_AL3 = 80                     ;Tỷ lệ thành công của Jewel of Life (Vip3).
+HarmonySuccessRate_AL0 = 50                  ;Tỷ lệ thành công của Jewel of Harmony (Miễn phí).
+HarmonySuccessRate_AL1 = 50                  ;Tỷ lệ thành công của Jewel of Harmony (Vip1).
+HarmonySuccessRate_AL2 = 50                  ;Tỷ lệ thành công của Jewel of Harmony (Vip2).
+HarmonySuccessRate_AL3 = 50                  ;Tỷ lệ thành công của Jewel of Harmony (Vip3).
+SmeltStoneSuccessRate1_AL0 = 50              ;Tỷ lệ thành công của Smelt Stone (Miễn phí).
+SmeltStoneSuccessRate1_AL1 = 50              ;Tỷ lệ thành công của Smelt Stone (Vip1).
+SmeltStoneSuccessRate1_AL2 = 50              ;Tỷ lệ thành công của Smelt Stone (Vip2).
+SmeltStoneSuccessRate1_AL3 = 50              ;Tỷ lệ thành công của Smelt Stone (Vip3).
+SmeltStoneSuccessRate2_AL0 = 70              ;Tỷ lệ thành công của Smelt Stone trên các mặt hàng xuất sắc (Miễn phí).
+SmeltStoneSuccessRate2_AL1 = 70              ;Tỷ lệ thành công của Smelt Stone trên các vật phẩm xuất sắc (Vip1).
+SmeltStoneSuccessRate2_AL2 = 70              ;Tỷ lệ thành công của Smelt Stone trên các vật phẩm xuất sắc (Vip2).
+SmeltStoneSuccessRate2_AL3 = 70              ;Tỷ lệ thành công của Smelt Stone trên các vật phẩm xuất sắc (Vip3).
+AddLuckSuccessRate1_AL0 = 10                 ;Tỷ lệ thành công may mắn (Miễn phí).
+AddLuckSuccessRate1_AL1 = 10                 ;Tỷ lệ thành công may mắn (Vip1).
+AddLuckSuccessRate1_AL2 = 10                 ;Tỷ lệ thành công may mắn (Vip2).
+AddLuckSuccessRate1_AL3 = 10                 ;Tỷ lệ thành công may mắn (Vip3).
+AddLuckSuccessRate2_AL0 = 10                 ;Tỷ lệ thành công may mắn trên Chaos Machine (Miễn phí).
+AddLuckSuccessRate2_AL1 = 10                ;Tỷ lệ thành công may mắn trên Chaos Machine (Vip1).
+AddLuckSuccessRate2_AL2 = 10                 ;Tỷ lệ thành công may mắn trên Chaos Machine (Vip2).
+AddLuckSuccessRate2_AL3 = 10                 ;Tỷ lệ thành công may mắn trên Chaos Machine (Vip3).
+
+;==================================================
+; Fruit Settings
+;==================================================
+FruitAddPointMin = 1
+FruitAddPointMax = 3
+FruitAddPointSuccessRate_AL0 = -1
+FruitAddPointSuccessRate_AL1 = -1
+FruitAddPointSuccessRate_AL2 = -1
+FruitAddPointSuccessRate_AL3 = -1
+FruitSubPointMin = 1
+FruitSubPointMax = 9
+FruitSubPointSuccessRate_AL0 = -1
+FruitSubPointSuccessRate_AL1 = -1
+FruitSubPointSuccessRate_AL2 = -1
+FruitSubPointSuccessRate_AL3 = -1
+
+;==================================================
+; HP Bonus System
+; Aumenta a vida do personagem de acordo com a quantidade de master reset
+;==================================================
+HpBonus_AL0 = 1
+HpBonus_AL1 = 1
+HpBonus_AL2 = 1
+HpBonus_AL3 = 1
+HpBonus_MAX = 10000
+
+;==================================================
+; Die System
+; Bat/Tat Hiển thị tin nhắn trò chuyện khi nhân vật chết
+;==================================================
+DieUserSwitch = 1
+DieMonsterSwitch = 1
+
+;==================================================
+; Online User System
+; Bat/Tat Hiển thị thông báo khi người chơi online
+;==================================================
+OnlineGmSwitch = 1
+OnlineUserSwitch = 1
+OnlineUserSwitch = 1
+
+;==================================================
+; Disable exp message (Premium)
+; Desabilita a mensagem de experiencia ganha ao matar um mob.
+; Só é exibida quando sobe de level.
+;==================================================
+DisableExpMessage = 0
+
+;==================================================
+; Remover Recuo (Premium)
+; Remove o recuo/empurrão das skills
+;==================================================
+DisableLightningEffect  = 1
+DisableCycloneEffect  = 1
+DisableTwistEffect  = 1
+DisableLungEffect  = 1
+DisableFallingEffect  = 1
+DisableUpperCutEffect  = 1
+
+;==================================================
+; Disable Wings Class Mix
+; Desabilita criação de asas para classes
+;==================================================
+DisableWingMixDL = 0
+DisableWingMixSU = 0
+DisableWingMixRF = 0
+
+;==================================================
+; Pk Can Enter in events
+; Permitir Pk entrar nos eventos
+;==================================================
+PkCanEnterBC = 1									;Không cho PK tham gia Blood
+PkCanEnterCC = 1									;Không cho PK tham gia CC
+PkCanEnterDS = 1									;Không cho PK tham gia Devil
+
+PKDisableShop = 1
+PKDisableTrade = 1
+
+;==================================================
+; Pk Item Drop
+;==================================================
+PkItemDropSwitch = 0
+PkItemDropEnable_AL0 = 1
+PkItemDropEnable_AL1 = 1
+PkItemDropEnable_AL2 = 1
+PkItemDropEnable_AL3 = 1
+PkItemDropMinLevel = 0
+PkItemDropMaxLevel = 2
+PkItemDropExecellent = 1
+PkItemDropSocketItem = 1
+PkItemDropSetItem = 1
+PkItemDropHarmony = 1
+PkItemDropRate = 10
+
+;==================================================
+; Ngắt Kết Nối Khi Tài Khoản Đang Online
+;==================================================
+DisconnectOnlineAccount = 1
+
+;==================================================
+; Enable CS Skills in All Maps
+;==================================================
+EnableCsSkillsAllMaps = 1
+
+;==================================================
+; Enable Combo Skills in All Class
+;==================================================
+EnableComboToAllSwitch = 1

@@ -1,0 +1,41 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 011 - Alex the Wandering Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	25	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Light Plate Mask
+7	26	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Adamantine Mask
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+8	25	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Light Plate Armor
+8	26	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Adamantine Armor
+2	8	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Battle Scepter
+2	9	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Master Scepter
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	3	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Healing Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+14	6	0	50	0	0	0	0 0 0 0 0 0 0 0 0	//Large Mana Potion
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Imp
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Guardian Angel
+9	25	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Light Plate Pants
+9	26	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Adamantine Pants
+2	10	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Great Scepter
+2	11	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Lord Scepter
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Imp
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Guardian Angel
+13	1	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Imp
+13	0	0	0	0	0	0	0 0 0 0 0 0 0 0 0	//Guardian Angel
+10	25	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Light Plate Gloves
+10	26	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Adamantine Gloves
+12	21	0	0	0	1	0	0 0 0 0 0 0 0 0 0	//Scroll of FireBurst
+11	25	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Light Plate Boots
+11	26	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Adamantine Boots
+end

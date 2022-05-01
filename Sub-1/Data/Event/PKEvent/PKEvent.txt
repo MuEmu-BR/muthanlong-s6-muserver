@@ -1,0 +1,57 @@
+//=================================================================================================================
+//					CODE BỞI VĂN THÀNH
+//=================================================================================================================
+
+[OPTIONS]
+
+; Số lượng ng chơi tối thiểu để khởi động event
+MinimumPlayers = 2
+
+; Thời gian diễn ra event
+TimeLimit = 5
+
+; If the event times out, the winner will be the player
+; 1 = người chơi có số kill nhiều nhất,  2 = người chơi sống sót cuối cùng
+WinnerByKillCount = 1
+
+; Tọa độ/map event
+; Chú ý! X1 phải nhỏ hơn X2, tương tự Y1 < Y2
+; 66    53
+SurvivorMap = 88
+SurvivorX1	= 010
+SurvivorY1	= 240
+SurvivorX2	= 010
+SurvivorY2	= 240
+
+; Cho phép DW sử dụng Teleport skill (1), Tắt (0)
+DisableTeleport = 1
+
+; Phần thưởng cho người chiến thắng (128 - PK Event.txt)
+[PRIZE]
+RewardItem      = 0
+WcoinWinADD		= 2000
+
+[MESSAGES]
+Msg01 = [Tranh Hùng][%s] Bắt đầu sau %d phút?
+Msg02 = Sử dụng lệnh /thamgia để tham gia!
+Msg03 = Tất cả chủng tộc
+Msg04 = Phù Thủy
+Msg05 = Chiến Binh
+Msg06 = Tiên Nữ
+Msg07 = Đấu Sĩ
+Msg08 = Chúa Tê
+Msg09 = Thuật Sĩ
+Msg10 = Thiết Binh
+Msg11 = Chưa đến giờ đăng ký sự kiện.
+Msg12 = Bạn đã đăng ký sự kiện Tranh Hùng! Chúc may mắn!
+Msg13 = Bạn đã đăng ký sự kiện Tranh Hùng.
+Msg14 = [Tranh Hùng] Bắt đầu sau %d phút. hãy chuẩn bị!
+Msg15 = [Tranh Hùng] Bắt đầu. Người chơi có số kill nhiều nhất sẽ chiến thắng!
+Msg16 = [Tranh Hùng] [%s] Đã Tiêu Diệt [%s]
+Msg17 = [Tranh Hùng] Bạn bị Tiêu Diệt bởi %s
+Msg18 = [Tranh Hùng] [%s] Là người sống cuối cùng, CHIẾN THẮNG!
+Msg19 = [Tranh Hùng] [%s] Là người chơi có số lượng KILL nhiều nhất!
+Msg20 = [Tranh Hùng] Sự kiện không có người chiến thắng
+Msg21 = [Tranh Hùng] Sự kiện bị hủy do thiếu người tham gia
+Msg22 = Bạn không thể rửa tội khi tham gia sự kiện
+Msg23 = Sự kiện không dành cho chủng tộc của bạn

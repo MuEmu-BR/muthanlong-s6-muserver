@@ -1,0 +1,22 @@
+//-------------------------------------------//
+// DayOfWeek =	0 =  Sunday
+//		1 =  Monday
+//		2 =  Twesday
+//		3 =  Wednesday
+//		4 =  Thursday
+//		5 =  Friday
+//		6 =  Saturday
+//		-1 = all days
+// Hour   = from 0 to 23 (-1 = every hour)
+// Minute = from 0 to 59
+// Type =	-1 = All classes
+// 		0  = Wizard only
+//		1  = Knight only
+//		2  = Elf only
+//		3  = Gladiator only
+//		4  = Dark Lord only
+//		5  = Summoner only
+//		6  = Rage Fighter only
+//-------------------------------------------//
+//Type	DayOfWeek	Hour	Min
+-1	        -1		19      05

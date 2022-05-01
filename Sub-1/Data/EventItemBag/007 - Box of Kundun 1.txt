@@ -1,0 +1,168 @@
+//============================================================================
+//Drop Settings: Box of KUNDUN + 1 Drops set cap 1+2
+// TDA-TEAM.NET
+//============================================================================
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 1"	     50000	   80		        1		        0		          0		       0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//==================== Vũ khí Cấp 1+2 skill + luck + tinh nang + 1ex ====================
+0           1		0          0          1       1      1        1  // Doan Dao
+0           2		0          0          1       1      1        1  // Truong Kiem
+0           3		0          0          1       1      1        1  // Kiem Nhat
+0           4		0          0          1       1      1        1  // Dao Sat Thu
+0           5		0          0          1       1      1        1  // Khoai Dao
+0           6		0          0          1       1      1        1  // Kiem La Ma
+0           7		0          0          1       1      1        1  // Ma Tau
+0           8		0          0          1       1      1        1  // Xa Dao
+0           9		0          0          1       1      1        1  // Kiem Rong Lua
+0           10      0          0          1       1      1        1  // Kiem Anh Sang
+0           11      0          0          1       1      1        1  // Kiem Ma Thuat
+0           12      0          0          1       1      1        1  // Thai Duong Kiem
+0           13      0          0          1       1      1        1  // Hoa Dao
+0           14      0          0          1       1      1        1  // kiem dien
+//Riu
+1           2       0          0          1       1      1        1  // Riu Luoi Hai
+1           3       0          0          1       1      1        1  // Riu Tho San
+1           4       0          0          1       1      1        1  // Riu Tien Nu
+1           5       0          0          1       1      1        1  // Riu Chien
+
+//Chuy
+2           1       0          0          1       1      1        1  // Truy Gai
+2           2       0          0          1       1      1        1  // Truy Day
+2           3       0          0          1       1      1        1  // Bua Chien
+2           8       0          0          1       1      1        1  // Truong Chien
+2           9       0          0          1       1      1        1  // Truong Thep
+//No
+4           0		0          0          1       1      1        1  // Cung Nho
+4           1		0          0          1       1      1        1  // Cung
+4           9		0          0          1       1      1        1  // No Vang
+4           13		0          0          1       1      1        1  // No Thien Thanh
+4           14		0          0          1       1      1        1  // No Kim Ngan
+//Gay
+5           0       0          0          1       1      1        1  // Gay Xuong
+5           1       0          0          1       1      1        1  // "Gay Tien
+5           2       0          0          1       1      1        1  // Gay Ran
+5           3       0          0          1       1      1        1  // Gay Set
+5           4       0          0          1       1      1        1  // Gay Dau Lau
+5           5       0          0          1       1      1        1  // Gay Ma Thuat
+5           6       0          0          1       1      1        1  // gay phuc sinh
+
+5           14		0          0          1       1      1        1  // Gay Phep Thuat
+5           15		0          0          1       1      1        1  // Gay Gio
+5           16		0          0          1       1      1        1  // Gay Trieu Hoi
+5           17		0          0          1       1      1        1  // Gay Anh Bac
+//Khien
+6           0       0          0          1       1      1        0  // khien tron
+6           1       0          0          1       1      1        0  // khien sung 
+6           2       0          0          1       1      1        0  // khien dieu
+6           3       0          0          1       1      1        0  // khien tien nu
+
+//======================= Set đồ cấp 1+2 + luck + tinh nang + ex ===========================
+// Đồ DK
+7           9       0          0          0       1      1        1  // thiet phien
+8           9       0          0          0       1      1        1
+9           9       0          0          0       1      1        1
+10          9       0          0          0       1      1        1
+11          9       0          0          0       1      1        1
+7           8       0          0          0       1      1        1  // thien kim
+8           8       0          0          0       1      1        1
+9           8       0          0          0       1      1        1
+10          8       0          0          0       1      1        1
+11          8       0          0          0       1      1        1
+// Đồ DW
+7           4       0          0          0       1      1        1  // xuong
+8           4       0          0          0       1      1        1
+9           4       0          0          0       1      1        1
+10          4       0          0          0       1      1        1
+11          4       0          0          0       1      1        1
+7           2       0          0          0       1      1        1  // vai tho
+8           2       0          0          0       1      1        1
+9           2       0          0          0       1      1        1
+10          2       0          0          0       1      1        1
+11          2       0          0          0       1      1        1
+// Đồ EF
+7           10      0          0          0       1      1        1  // Trinh Nu
+8           10      0          0          0       1      1        1
+9           10      0          0          0       1      1        1
+10          10      0          0          0       1      1        1
+11          10      0          0          0       1      1        1
+7           11      0          0          0       1      1        1  // Lua
+8           11      0          0          0       1      1        1
+9           11      0          0          0       1      1        1
+10          11      0          0          0       1      1        1
+11          11      0          0          0       1      1        1
+7           12      0          0          0       1      1        1  // thien thanh
+8           12      0          0          0       1      1        1
+9           12      0          0          0       1      1        1
+10          12      0          0          0       1      1        1
+11          12      0          0          0       1      1        1
+// Đồ DL 
+7           25      0          0          0       1      1        1  // thiet ma
+8           25      0          0          0       1      1        1
+9           25      0          0          0       1      1        1
+10          25      0          0          0       1      1        1
+11          25      0          0          0       1      1        1
+// Đồ MG ko co do cap 2
+// Đồ SUM ko co do cap 2
+// Đồ RF
+7           59      0          0          0       1      1        1  // dia long
+8           59      0          0          0       1      1        1
+9           59      0          0          0       1      1        1
+11          59      0          0          0       1      1        1
+
+// Đồ DK
+7           9       0          0          0       0      1        1  // thiet phien
+8           9       0          0          0       0      1        1
+9           9       0          0          0       0      1        1
+10          9       0          0          0       0      1        1
+11          9       0          0          0       0      1        1
+7           8       0          0          0       0      1        1  // thien kim
+8           8       0          0          0       0      1        1
+9           8       0          0          0       0      1        1
+10          8       0          0          0       0      1        1
+11          8       0          0          0       0      1        1
+// Đồ DW
+7           4       0          0          0       0      1        1  // xuong
+8           4       0          0          0       0      1        1
+9           4       0          0          0       0      1        1
+10          4       0          0          0       0      1        1
+11          4       0          0          0       0      1        1
+7           2       0          0          0       0      1        1  // vai tho
+8           2       0          0          0       0      1        1
+9           2       0          0          0       0      1        1
+10          2       0          0          0       0      1        1
+11          2       0          0          0       0      1        1
+// Đồ EF
+7           10      0          0          0       0      1        1  // Trinh Nu
+8           10      0          0          0       0      1        1
+9           10      0          0          0       0      1        1
+10          10      0          0          0       0      1        1
+11          10      0          0          0       0      1        1
+7           11      0          0          0       0      1        1  // Lua
+8           11      0          0          0       0      1        1
+9           11      0          0          0       0      1        1
+10          11      0          0          0       0      1        1
+11          11      0          0          0       0      1        1
+7           12      0          0          0       0      1        1  // thien thanh
+8           12      0          0          0       0      1        1
+9           12      0          0          0       0      1        1
+10          12      0          0          0       0      1        1
+11          12      0          0          0       0      1        1
+// Đồ DL 
+7           25      0          0          0       0      1        1  // thiet ma
+8           25      0          0          0       0      1        1
+9           25      0          0          0       0      1        1
+10          25      0          0          0       0      1        1
+11          25      0          0          0       0      1        1
+// Đồ MG ko co do cap 2
+// Đồ SUM ko co do cap 2
+// Đồ RF
+7           59      0          0          0       0      1        1  // dia long
+8           59      0          0          0       0      1        1
+9           59      0          0          0       0      1        1
+11          59      0          0          0       0      1        1
+end

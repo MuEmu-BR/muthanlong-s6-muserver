@@ -1,0 +1,83 @@
+//Map MoveGate Gate
+0        1	17	//Lorencia
+1        1	17	//Dungeon
+2        1	22	//Devias
+3        1	27	//Noria
+4        1	42	//Lost Tower
+6        1	115	//Arena
+7        1	49	//Atlans
+8        1	57	//Tarkan
+9        1	27	//Devil Square 1
+10       1	42	//Icarus
+11       1	22	//Blood Castle 1
+12       1	22	//Blood Castle 2
+13       1	22	//Blood Castle 3
+14       1	22	//Blood Castle 4
+15       1	22	//Blood Castle 5
+16       1	22	//Blood Castle 6
+17       1	22	//Blood Castle 7
+18       1	17	//Chaos Castle 1
+19       1	17	//Chaos Castle 2
+20       1	17	//Chaos Castle 3
+21       1	17	//Chaos Castle 4
+22       1	17	//Chaos Castle 5
+23       1	17	//Chaos Castle 6
+24       1	17	//Kalima 1
+25       1	17	//Kalima 2
+26       1	17	//Kalima 3
+27       1	17	//Kalima 4
+28       1	17	//Kalima 5
+29       1	17	//Kalima 6
+30       1	100	//Castle Siege
+31       1	106	//Land of Trials
+32       1	27	//Devil Square 2
+33       1	119	//Aida
+34       1	118	//Crywolf
+36       1	17	//Kalima 7
+37       1	138	//Kanturu 1
+38       1	139	//Kanturu 2
+39       1	137	//Kanturu 3
+40       1	402	//Silent
+41       1	256	//Barracks
+42       1	256	//Refuge
+45       1	17	//Illusion Temple 1
+46       1	17	//Illusion Temple 2
+47       1	17	//Illusion Temple 3
+48       1	17	//Illusion Temple 4
+49       1	17	//Illusion Temple 5
+50       1	17	//Illusion Temple 6
+51       1	267	//Elbeland
+52       1	22	//Blood Castle 8
+53       1	17	//Chaos Castle 7
+56       1	273	//Swamp of Calmness
+57       1	286	//Raklion 1
+58       1	286	//Raklion 2
+62       1	22	//Santa Town
+63       1	294	//Vulcanus
+64       1	294	//Duel Arena
+65       1	267	//Double Goer 1
+66       1	267	//Double Goer 2
+67       1	267	//Double Goer 3
+68       1	267	//Double Goer 4
+69       1	22	//Imperial Guardian 1
+70       1	22	//Imperial Guardian 2
+71       1	22	//Imperial Guardian 3
+72       1	22	//Imperial Guardian 4
+79       1	333	//Loren Market
+80       1	335	//Karutan 1
+81       1	335	//Karutan 2
+//82       1	600	//Event
+83       1	820	//Boss Guild
+88       1	502	//Tranh Hùng Event
+89       1	504	//Tháp Boss      
+//90       1	607	//Guil vs Guild      
+91       1	609	//Deep Dungeon    
+92       1	610	//Acheron Event  
+93       1	611	//Atlans Abyss               
+94       1	612	//Scotch Canyon    
+95       1	613	//New Map 9
+96       1	614	//New Map 10
+97       1	615	//New Map 11
+98       1	616	//New Map 12
+99       1	617	//New Map 13
+end
