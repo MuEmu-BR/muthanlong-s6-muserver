@@ -1,0 +1,65 @@
+// 									FILES PREMIUN SYSTEM CUSTOM BOW [200 MAX]
+//===============================================================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex
+// Last review: 02.20.2020
+//===============================================================================================================
+// Custom Bows & Crossbows Config File
+//===============================================================================================================
+// Valid EffecID: 266,267,268,269,270,271,272,273,274,294,
+//                295,296,297,298,321,324,335,365,509
+//---------------------------------------------------------------------------------------------------------------
+// Type: Crossbows -> 1; Bows -> 0;
+//---------------------------------------------------------------------------------------------------------------
+//recomendado Posicionamiento en Inventario Bow:
+//TranslationX	TranslationY	RotationX	RotationY	RotationZ	Scale
+//-0.1			0.10			-90.0		180.0		15.0		1.0
+//---------------------------------------------------------------------------------------------------------------
+//recomendado Posicionamiento en Inventario CrosBow:
+//TranslationX	TranslationY	RotationX	RotationY	RotationZ	Scale
+//0.0			0.03			180.0		90.0		20.0		1.0
+//===============================================================================================================
+// 					FILES PREMIUN SYSTEM CUSTOM BOW [200 MAX]
+//=============================================================================
+// MasterCodex Season 6 - Mu Online
+//==============================================================================
+// Custom Bows & Crossbows Config File
+//==============================================================================
+// Valid EffecID:
+//266 = Flecha de Fuego (Rojo)
+//267 = Flecha de Puas (Gris)
+//268 = Flecha de Serpiente (Amarillo)
+//269 = Flecha de Rayo Laser (Verde)
+//270 = Flecha de Boomerang (Verde)
+//271 = Flecha de Engranaje (Verde)
+//272 = Flecha de Planta (Verde+Blanco)
+//273 = Flecha de Granada (Rojo)
+//274 = Flecha de Agua (Azul)
+//294 = Flecha de Estrellas (Blanco+Violeta)
+//295 = Flecha de Luz (Blanco)
+//296 = Flecha de Fuego Tridente (Naranja)
+//297 = Flecha de Rayo (Verde)
+//298 = Flecha de Plumas (Blanca+Violeta)
+//321 = Flechas (Morada)
+//324 = Flecha de Misil (Rojo+Amarillo+Violeta)
+//335 = Flechas (Rosada)
+//365 = Flecha a tu Ubicacion (No usar)(Azul)
+//509 = Flecha de Veneno (Verde)
+//Max CustomBow 10 Index del  50 al 59
+//Max Custom Crosbow 10 Index del 60 al 69
+//Guardar slot de 71 al 90 para proxima update 
+//Si agregan bow o Crossbow  fuera de esos indices, usar itemposition.
+//-------------------------------------------------------------------------------
+// Type: Crossbows -> 1; Bows -> 0;
+//================================================================================
+//ItemID        Model                   Type    EffecID     ColorR  ColorG  ColorB
+2073	bow25				0     509   	123     229     92	//Angelic Bow
+2074	Crossbow26			1     296   	127     127     127	//Devil Crossbow
+2076	bloodangel_bow			0     266	255	78	56	//Bloodangel Bow
+2078	absolute_gunbow			1     298	255	178	63	//Blessed Divine Crossbow of Ar
+2079	Darkangel_Bow			0     295	255     226     115	//Darkangel Bow
+2080	HolyAngelBow			0     296	190	142	69	//Holyangel Bow
+2081    hs_soularcherbow_s      	0     266       219	83	0	//Awakening Soul Bow
+2082	blue_eyebow_stand		0     274	122     139     168	//Blue Eye Bow
+2083	mastery_bow6_stand		0     321	078     016     166	//Silver Heart Bow
+end

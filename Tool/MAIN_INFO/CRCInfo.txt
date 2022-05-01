@@ -1,0 +1,4 @@
+GameGuardCRC = 0x0
+VerifyCRC = 0xffffffff
+MainDLLCRC = 0x0
+MainEXECRC = 0x584160d

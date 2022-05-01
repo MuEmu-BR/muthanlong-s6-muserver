@@ -1,0 +1,43 @@
+// ---------------------------------------------------------------------------------------------------------------------------------------------
+// Type = 0: NPC
+// Type = 1: Monster
+// ---------------------------------------------------------------------------------------------------------------------------------------------
+// MonsterID | Type 	     | Name 		                       | Dir 		    | Folder 		| BMDFile 		| Size
+// ---------------------------------------------------------------------------------------------------------------------------------------------
+//805		1	"Bò Chiến"                 "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"	  	    0.75
+
+1
+
+//700		1	"Boss(DK)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"		    2.10
+//701		1	"Boss(DW)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"		    2.10
+//702		1	"Boss(EF)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"		    2.10
+//703		1	"Boss(MG)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"	        2.10
+//704		1	"Boss(DL)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"	        2.10
+//705		1	"Boss(SM)"            "Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster01"	        2.10
+//706		1	"Boss(RF)"            "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster01"	    2.10
+
+
+707		1	"Selupan Gold"             "Data\\Monster\\"    "Monster\\"	"Monster151"	    2.00
+799		1	"Quỷ Thần"                 "Data\\Monster\\"    "Monster\\"	"Monster171"	    2.00
+800		1	"Quỷ Địa Ngục"             "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster800"	    1.50
+801		1	"Nữ Hoàng"                 "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster801"	    2.30
+802		1	"Thần Quỷ"                 "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster802"	    2.00
+803		1	"Nữ Quỷ Đỏ"                "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster803"	    2.10
+804		1	"Kiếm Sĩ Rồng"             "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster804"	    4.00
+805		1	"Quỷ Kiếm Đỏ"              "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster805"	    1.50
+806		1	"Thần BladeKinght"         "Data\\Custom\\Monster\\"    "Custom\\Monster\\"	"Monster806"	    1.40
+
+908		1	"Tượng Bảo Vệ"			   "Data\\Monster\\"	"Monster\\"	"Monster186"		1.0
+
+end
+
+2
+//Monster    Name         Set     TayPhai     TayTrai    Wings    Size
+700		  "BossS1(DK)"    17      19          19         36       1.80       
+701		  "BossS1(DW)"    18      2573        2573       37       1.80     
+702		  "BossS1(EF)"    19      2066        -1         38       1.80     
+703		  "BossS1(MG)"    20      21          -1         39       1.80     
+704		  "BossS1(DL)"    28      1036        -1         40       1.80     
+705		  "BossS1(SM)"    42      2579        -1         43       1.80     
+706		  "BossS1(RF)"    61      34          34         50       1.80     
+end

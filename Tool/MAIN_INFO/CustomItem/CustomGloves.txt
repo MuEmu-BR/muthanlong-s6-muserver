@@ -1,0 +1,18 @@
+//===============================================================================================================
+//					SYSTEM CUSTOM GLOVE [50 MAX]
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//GlovesID	Model		LeftIndex	LeftModel		RightIndex	RightModel        	ColorR	ColorG	ColorB	name
+100	     BloodangelClo	400		BloodangelClo_L		401	 BloodangelClo_R       	205	    192      176
+101	     PrickleGlove	402		PrickleGlove_left	403	 PrickleGlove_right    	255	    229	     153
+102	     Sword39		404		Sword39_L		405	 Sword39_R	 	125	    125      150
+103	     Sword40		406		Sword40_L		407	 Sword40_R	        84          129      107
+104	     Sword43		408		Sword43_L		409	 Sword43_R	 	137	    77       0
+105	     Sword41		410		Sword41_L		411	 Sword41_R	        219	    34	     17  
+106	     Sword42		412		Sword42_L		413	 Sword42_R	 	0  	    19       189
+107	     Sword37		414		Sword37_L		415	 Sword37_R	        71          163      233
+108	     Sword38		416		Sword38_L		417	 Sword38_R	 	236	    198      140
+109	     Sword44		418		Sword44_L		419	 Sword44_R	 	122	    139      168
+110	     Sword45		420		Sword45_L		421	 Sword45_R	 	078	    016      166
+end

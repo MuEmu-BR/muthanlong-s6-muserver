@@ -1,0 +1,118 @@
+//==============================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex
+// Last review: 02.20.2020
+//==============================================================================
+// Custom Pet Config File
+// Agregar archivos en: [Data/Item]
+// Index  - ItemIndex
+// IndexInv - Index Texture view in inventory
+// ModelName - Name File BMD
+// Fenrir    - Effect Fenrir
+// 1 - Effect Fenrir
+// 2 - Effect Fenrir Golden
+// Inv - Inventory
+// Drop - Drop in game
+// View - Size in use player
+// Type: Moviment like a:
+// 0  - Demon			[NO FOUNT][UPDATE 14]
+// 1  - Rudolf			[NO FOUNT][UPDATE 14]
+// 2  - Panda			[NO FOUNT][UPDATE 14]
+// 3  - Unicorn			[NO FOUNT][UPDATE 14]
+// 4  - Skeleton		[NO FOUNT][UPDATE 14]
+// 5  - Fenrir (Mount)		[UPDATE 13]
+// 6  - Dark Horse (Mount) 	[UPDATE 13]
+// 7  - Uniria (Mount) 	[NO FOUNT][UPDATE 14]
+// 8  - Muun Pet 		[UPDATE 7]
+// 9  - Angel
+// 10 - Satan
+// 11 - Dinorant (Mount) 		[NO FOUNT][UPDATE 14]
+//========================================================================================================================================
+// MOUNTS
+//========================================================================================================================================
+//==============================================================================
+//Index IdxInv	Type	ModelName		Fenrir	Inv	Drop	View
+//==============================================================================
+6902  6902	5   "icedragon"				0 	0.4 	0.4 	1.0 // Ice Dragon Blue
+6903  6903	5   "icedragon_rare"		0 	0.4 	0.4 	1.0 // Ice Dragon Red
+6904  6904	5   "fenrirghostv2"			0 	0.4 	0.4 	1.0 // Fenrir Ghost
+6905  6905	5   "IceDragonSteel"		0 	0.4 	0.4 	1.0 // Ice Dragon Steel
+6906  6906	5   "bebo"				    0 	0.4 	0.4 	0.8 // Lion Ghost
+6907  6907	5   "fiercelion"			0 	0.4 	0.4 	1.0 // Pierce Ryan Blue
+6908  6908	5   "fiercelionR"			0 	0.4 	0.4 	1.0 // Pierce Ryan Red
+6909  6909	5   "invdragonzeus20"		0 	0.4 	0.4 	1.0 // Dragon Zeus
+6910  6910	5   "zeuslioninv"			0 	0.4 	0.4 	0.84 // Lion Zeus
+
+6911  6911	6   "ghost_horse_decrypted"	0 	0.4 	0.4 	1.0 // Ghost Horse	
+
+6912  6912	5   "FenrirGhostBlue"		0 	0.4 	0.4 	1.0 // Fenrir Ghost
+6913  6913	5   "FenrirGhostGreen"		0 	0.4 	0.4 	1.0 // Fenrir Ghost
+6914  6914	5   "FenrirGhostRed"		0 	0.4 	0.4 	1.0 // Fenrir Ghost
+6915  6915	5   "FenrirGhostGold"		0 	0.4 	0.4 	1.0 // Fenrir Ghost
+
+6916  6916	5   "rippen_ride"          	0 	0.4 	0.4 	0.9 // Repen Mount
+6917  6917	5   "rippenUp_ride"        	0 	0.4 	0.4 	0.9 // Repen Mount (Lv2)
+
+//========================================== ==============================================================================================
+// PETS
+//========================================================================================================================================
+//==============================================================================
+//Index IdxInv	Type	ModelName		Fenrir	Inv	Drop	View
+//==============================================================================
+6856  6856	8	"DarkMagic"	    	    0 	0.4 	0.4 	1.5  // DarkMagic	
+6857  6857	8	"DragonKnight"		    0 	0.4 	0.4 	1.5	 // DragonKnight	
+6858  6858	8	"DarkWizard"		    0 	0.4 	0.4 	1.5	 // DarkWizard	
+6859  6859	8	"FairyElf"		        0   0.4 	0.4 	1.5	 // FairyElf		
+
+6860  6860	8	"dragonpet"             0 	0.4 	0.4 	1.5	 // Luki
+6861  6861	8	"dragonpet_evol"        0 	0.4 	0.4 	1.5	 // Luki (Lv2)
+
+6862  6862	8	"williumpet"            0 	0.4 	0.4 	1.0	 // William
+6863  6863	8	"williumpet_evol"       0 	0.4 	0.4 	1.0	 // William (Lv2)
+
+6864  6864	8	"wolfpet"               0 	0.4 	0.4 	1.5	 // Tibetton
+6865  6865	8	"wolfpet_evol"          0 	0.4 	0.4 	1.5	 // Tibetton (Lv2)
+
+6866  6866	8	"wooparoopet"           0 	0.4 	0.4 	1.5	 // Wooparoo
+6867  6867	8	"wooparoopet_evol"      0 	0.4 	0.4 	1.5	 // Wooparoo (Lv2)
+6868  6868	8	"Kironpet"              0 	0.4 	0.4 	1.5	 // Chiron
+6869  6869	8	"Kironpet_evol"         0 	0.4 	0.4 	1.5	 // Chiron (Lv2)
+6870  6870	8	"Desmodus"              0 	0.4 	0.4 	1.5	 // Desmodus
+6871  6871	8	"Desmodus_evol"         0 	0.4 	0.4 	1.5	 // Desmodus (Lv2)
+
+6872  6872	8   "swordnkgk1"           	0 	0.4 	0.4 	0.6 // Tibetton Mount
+6873  6873	8   "swordnkgk2"           	0 	0.4 	0.4 	0.6 // Tibetton Mount (Lv2)
+
+6874  6874	8	"runemuun"              0 	0.4 	0.4 	1.5	 // Rune Wizard
+6875  6875	8	"gaionkharein"          0 	0.4 	0.4 	1.5	 // Gaion Kharein
+6876  6876	8	"prince"                0 	0.4 	0.4 	1.5	 // Prince
+6877  6877	8	"king"                  0 	0.4 	0.4 	1.5	 // King Rex Milion
+
+6878  6878	8	"loglepet"              0 	0.4 	0.4 	1.5	 // Loggle
+6879  6879	8	"loglepet_evol"         0 	0.4 	0.4 	1.5	 // Loggle (Lv2)
+
+6880  6880	8	"rippenpet"             0 	0.4 	0.4 	1.0	 // Repen
+6881  6881	8	"rippenpet_evol"        0 	0.4 	0.4 	1.0	 // Repen (Lv2)
+
+6884  6884	8	"balrog"                0 	0.4 	0.4 	1.5	 // Balrog
+6885  6885	8	"balrogUp"              0 	0.4 	0.4 	1.5	 // Balrog (Lv2)
+6886  6886	8	"phoenixofdarkness"     0 	0.4 	0.4 	1.5	 // Phoenix of Darkness
+6887  6887	8	"phoenixofdarknessUp"   0 	0.4 	0.4 	1.5	 // Phoenix of Darkness (Lv2)
+6888  6888	8	"kundun"                0 	0.4 	0.4 	1.5	 // Kundun
+6889  6889	8	"kundunUp"              0 	0.4 	0.4 	1.5	 // Kundun (Lv2)
+6890  6890	8	"nightmare"             0 	0.4 	0.4 	1.5	 // Nightmare
+6891  6891	8	"nightmareUp"           0 	0.4 	0.4 	1.5	 // Nightmare (Lv2)
+
+6892  6892	8	"hellmaine"             0 	0.4 	0.4 	1.8	 // HellMain
+6893  6893	8	"hellmaineUp"           0 	0.4 	0.4 	1.8	 // HellMain (Lv2)
+
+6894  6894	8	"selupan"               0 	0.4 	0.4 	1.5	 // Selupan
+6895  6895	8	"selupanUp"             0 	0.4 	0.4 	1.5	 // Selupan (Lv2)
+6896  6896	8	"medusa"                0 	0.4 	0.4 	1.5	 // Medusa
+6897  6897	8	"medusaUp"              0 	0.4 	0.4 	1.5	 // Medusa (Lv2)
+6898  6898	8	"lordsilvester"         0 	0.4 	0.4 	1.5	 // Lord Silvester
+6899  6899	8	"lordsilvesterUp"       0 	0.4 	0.4 	1.5	 // Lord Silvester (Lv2)
+6900  6900	8	"nix"                   0 	0.4 	0.4 	1.5	 // Nix
+6901  6901	8	"nixUp"                 0 	0.4 	0.4 	1.5	 // Nix (Lv2)
+
+end

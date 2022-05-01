@@ -1,0 +1,338 @@
+//=======================================================
+// BY: TAKUMI12 FILES GAMINGMU
+//=======================================================
+// Index	= ItemIndex: (Type * 512) + Index;
+// Type		= Disabled ColorGlow in SkinClass;
+// Index	= Disabled Brightness in SkinClass;
+// noOption	= Disabled EffectOption (Exc, anc, lucky) in SkinClass;
+// Comment	= "Name" commnet;
+//=======================================================
+//ItemIndex || Texture || Comment
+//=======================================================
+//========================================================================
+// SETS SEASON 8
+//========================================================================
+//3637	0	"helmmale98"
+//3638	0	"helmmale75"
+//3639	0	"helmmale76"
+//3640	0	"helmmale77"
+//3642	0	"helmmale78"
+//3661	0	"helmmale82"
+//	
+//4149	0	"ArmorMale98"
+//4150	0	"ArmorMale75"
+//4151	0	"ArmorMale76"
+//4152	0	"ArmorMale77"
+//4153	0	"ArmorMale84"
+//4154	0	"ArmorMale78"
+//4173	0	"ArmorMale82"
+//	
+//4661	0	"PantMale98"
+//4662	0	"PantMale75"
+//4663	0	"PantMale76"
+//4664	0	"PantMale77"
+//4665	0	"PantMale84"
+//4666	0	"PantMale78"
+//4685	0	"PantMale82"
+//	
+//5173	0	"GloveMale98"
+//5174	0	"GloveMale75"
+//5175	0	"GloveMale76"
+//5176	0	"GloveMale77"
+//5177	0	"GloveMale84"
+//5178	0	"GloveMale78"
+//	
+//5685	0	"BootMale98"
+//5686	0	"BootMale75"
+//5687	0	"BootMale76"
+//5688	0	"BootMale77"
+//5689	0	"BootMale84"
+//5690	0	"BootMale78"
+//5709	0	"BootMale82"
+//===================================================================
+// SET BLOODANGEL
+//===================================================================
+//3682	0	"helmmale83"
+//3683	0	"helmmale85"
+//3684	0	"helmmale86"
+//3685	0	"helmmale87"
+//3687	0	"helmmale88"
+//3688	0	"helmmale90"
+//		0
+//4194	0	"ArmorMale83"
+//4195	0	"ArmorMale85"
+//4196	0	"ArmorMale86"
+//4197	0	"ArmorMale87"
+//4198	0	"ArmorMale89"
+//4199	0	"ArmorMale88"
+//4200	0	"ArmorMale90"
+//		0
+//4706	0	"PantMale83"
+//4707	0	"PantMale85"
+//4708	0	"PantMale86"
+//4709	0	"PantMale87"
+//4710	0	"PantMale89"
+//4711	0	"PantMale88"
+//4712	0	"PantMale90"
+//		0
+//5218	0	"GloveMale83"
+//5219	0	"GloveMale85"
+//5220	0	"GloveMale86"
+//5221	0	"GloveMale87"
+//5222	0	"GloveMale89"
+//5223	0	"GloveMale88"
+//		0
+//5730	0	"BootMale83"
+//5731	0	"BootMale85"
+//5732	0	"BootMale86"
+//5733	0	"BootMale87"
+//5734	0	"BootMale89"
+//5735	0	"BootMale88"
+//5736	0	"BootMale90"
+//===================================================================
+// SET DARKANGEL
+//===================================================================
+//3722	0	"helmmale91"
+//3723	0	"helmmale92"
+//3724	0	"helmmale93"
+//3725	0	"helmmale94"
+//3727	0	"helmmale95"
+//3728	0	"helmmale97"
+//	
+//4234	0	"ArmorMale91"
+//4235	0	"ArmorMale92"
+//4236	0	"ArmorMale93"
+//4237	0	"ArmorMale94"
+//4238	0	"ArmorMale95"
+//4239	0	"ArmorMale96"
+//4240	0	"ArmorMale97"
+//	
+//4746	0	"PantMale91"
+//4747	0	"PantMale92"
+//4748	0	"PantMale93"
+//4749	0	"PantMale94"
+//4750	0	"PantMale95"
+//4751	0	"PantMale96"
+//4752	0	"PantMale97"
+//	
+//5258	0	"GloveMale91"
+//5259	0	"GloveMale92"
+//5260	0	"GloveMale93"
+//5261	0	"GloveMale94"
+//5262	0	"GloveMale95"
+//5263	0	"GloveMale96"
+//	
+//5770	0	"BootMale91"
+//5771	0	"BootMale92"
+//5772	0	"BootMale93"
+//5773	0	"BootMale94"
+//5774	0	"BootMale95"
+//5775	0	"BootMale96"
+//5776	0	"BootMale97"
+//===================================================================
+// SET HOLLYANGEL
+//===================================================================
+//3729	0	"HelmMale112_knight"
+//3730	0	"HelmMale111_magic"
+//3731	0	"HelmMale109_elf"
+//3732	0	"HelmMale109_alice"
+//3734	0	"HelmMale111_dark"
+//3735	0	"HelmMale112_fight"
+//	
+//4241	0	"ArmorMale112"
+//4242	0	"ArmorMale111"
+//4243	0	"ArmorMale109_elf"
+//4244	0	"ArmorMale109_alice"
+//4245	0	"ArmorMale112"
+//4246	0	"ArmorMale111"
+//4247	0	"ArmorMale112"
+//	
+//4753	0	"PantMale112"
+//4754	0	"PantMale111"
+//4755	0	"PantMale109_elf"
+//4756	0	"PantMale109_alice"
+//4757	0	"PantMale112"
+//4758	0	"PantMale111"
+//4759	0	"PantMale112"
+//	
+//5265	0	"GloveMale112"
+//5266	0	"GloveMale111"
+//5267	0	"GloveMale109"
+//5268	0	"GloveMale109"
+//5269	0	"GloveMale112"
+//5270	0	"GloveMale111"
+//	
+//5777	0	"BootMale112"
+//5778	0	"BootMale111"
+//5779	0	"BootMale109"
+//5780	0	"BootMale109"
+//5781	0	"BootMale112"
+//5782	0	"BootMale111"
+//5783	0	"BootMale112"
+//===================================================================
+// SET AWAKENING SOUL
+//===================================================================
+//3736	0	"HelmMale116_knight"
+//3737	0	"HelmMale115_magic"
+//3738	0	"HelmMale113_elf"
+//3739	0	"HelmMale113_alice"
+//3741	0	"HelmMale115_dark"
+//3742	0	"HelmMale116_fight"
+//	
+//4248	0	"ArmorMale116"
+//4249	0	"ArmorMale115"
+//4250	0	"ArmorMale113_elf"
+//4251	0	"ArmorMale113_alice"
+//4252	0	"ArmorMale116"
+//4253	0	"ArmorMale115"
+//4254	0	"ArmorMale116"
+//	
+//4760	0	"PantMale116"
+//4761	0	"PantMale115"
+//4762	0	"PantMale113_elf"
+//4763	0	"PantMale113_alice"
+//4764	0	"PantMale116"
+//4765	0	"PantMale115"
+//4766	0	"PantMale116"
+//	
+//5272	0	"GloveMale116"
+//5273	0	"GloveMale115"
+//5274	0	"GloveMale113_elf"
+//5275	0	"GloveMale113_alice"
+//5276	0	"GloveMale116"
+//5277	0	"GloveMale115"
+//	
+//5784	0	"BootMale116"
+//5785	0	"BootMale115"
+//5786	0	"BootMale113_elf"
+//5787	0	"BootMale113_alice"
+//5788	0	"BootMale116"
+//5789	0	"BootMale115"
+//5790	0	"BootMale116"
+//===================================================================
+// SET BLUE EYE
+//===================================================================
+//3743	0	"HelmMale120_knight"
+//3744	0	"HelmMale119_magic"
+//3745	0	"HelmMale117_elf"
+//3746	0	"HelmMale117_alice"
+//3748	0	"HelmMale119_dark"
+//3749	0	"HelmMale120_fight"
+//
+//4255	0	"ArmorMale120_knight"
+//4256	0	"ArmorMale119"
+//4257	0	"ArmorMale117"
+//4258	0	"ArmorMale117"
+//4259	0	"ArmorMale120_ma"
+//4260	0	"ArmorMale119"
+//4261	0	"ArmorMale120_fight"
+//	
+//4767	0	"PantMale120_knight"
+//4768	0	"PantMale119"
+//4769	0	"PantMale117"
+//4770	0	"PantMale117"
+//4771	0	"PantMale120_ma"
+//4772	0	"PantMale119"
+//4773	0	"PantMale120_fight"
+//
+//5279	0	"GloveMale120_knight"
+//5280	0	"GloveMale119"
+//5281	0	"GloveMale117"
+//5282	0	"GloveMale117"
+//5283	0	"GloveMale120_ma"
+//5284	0	"GloveMale119"
+//	
+//5791	0	"BootMale120_knight"
+//5792	0	"BootMale119"
+//5793	0	"BootMale117"
+//5794	0	"BootMale117"
+//5795	0	"BootMale120_ma"
+//5796	0	"BootMale119"
+//5797	0	"BootMale120_fight"
+//===================================================================
+// SET SILVER HEART
+//===================================================================
+//3752	0	"HelmMale131"
+//3753	0	"HelmMale130"
+//3754	0	"HelmMale128_elf"
+//3755	0	"HelmMale128_alice"
+//3757	0	"HelmMale130"
+//3758	0	"HelmMale131"
+//
+//4264	0	"ArmorMale131"
+//4265	0	"ArmorMale130"
+//4266	0	"ArmorMale128_elf"
+//4267	0	"ArmorMale128_alice"
+//4268	0	"ArmorMale131"
+//4269	0	"ArmorMale130"
+//4270	0	"ArmorMale131"
+//
+//4776	0	"PantMale131"
+//4777	0	"PantMale130"
+//4778	0	"PantMale128_elf"
+//4779	0	"PantMale128_alice"
+//4780	0	"PantMale131"
+//4781	0	"PantMale130"
+//4782	0	"PantMale131"
+//
+//5288	0	"GloveMale131"
+//5289	0	"GloveMale130"
+//5290	0	"GloveMale128_elf"
+//5291	0	"GloveMale128_alice"
+//5292	0	"GloveMale131"
+//5293	0	"GloveMale130"
+//
+//5800	0	"BootMale131"
+//5801	0	"BootMale130"
+//5802	0	"BootMale128_elf"
+//5803	0	"BootMale128_alice"
+//5804	0	"BootMale131"
+//5805	0	"BootMale130"
+//5806	0	"BootMale131"
+//===================================================================
+// MANTICORE SET S16
+//===================================================================
+//3759	0	"HelmMale135_knight"
+//3760	0	"HelmMale136_wizard"
+//3761	0	"HelmMale138_elf"
+//3762	0	"HelmMale138_alice"
+//3764	0	"HelmMale136_lord"
+//3765	0	"HelmMale135_fighter"
+//
+//4271	0	"ArmorMale135_knight"
+//4272	0	"ArmorMale136_wizard"
+//4273	0	"ArmorMale138_elf"
+//4274	0	"ArmorMale138_alice"
+//4275	0	"ArmorMale135_magic"
+//4276	0	"ArmorMale136_lord"
+//4277	0	"ArmorMale135_fighter"
+//
+//4783	0	"PantMale135_knight"
+//4784	0	"PantMale136_wizard"
+//4785	0	"PantMale138_elf"
+//4786	0	"PantMale138_alice"
+//4787	0	"PantMale135_magic"
+//4788	0	"PantMale136_lord"
+//4789	0	"PantMale135_fighter"
+//
+//5295	0	"GloveMale135_knight"
+//5296	0	"GloveMale136_wizard"
+//5297	0	"GloveMale138_elf"
+//5298	0	"GloveMale138_alice"
+//5299	0	"GloveMale135_magic"
+//5300	0	"GloveMale136_lord"
+//
+//5807	0	"BootMale135_knight"
+//5808	0	"BootMale136_wizard"
+//5809	0	"BootMale138_elf"
+//5810	0	"BootMale138_alice"
+//5811	0	"BootMale135_magic"
+//5812	0	"BootMale136_lord"
+//5813	0	"BootMale135_fighter"
+//
+//3766	0	"HelmMale139"
+//4278	0	"ArmorMale139"
+//4790	0	"PantMale139"
+//5302	0	"GloveMale139"
+//5814	0	"BootMale139"
+end

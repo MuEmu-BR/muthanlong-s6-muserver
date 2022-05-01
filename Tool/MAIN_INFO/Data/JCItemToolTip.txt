@@ -1,0 +1,96 @@
+//====================================================================
+//-- Color Type:
+//====================================================================
+//-- TEXT_BLUE		=	1
+//-- TEXT_RED		=	2
+//-- TEXT_GOLD		=	3
+//-- TEXT_GREN		=	4
+//-- TEXT_WHITE_RED	=	5
+//-- TEXT_PINK		=	6
+//-- TEXT_WHITE_BLUE	=	7
+//-- TEXT_WHITE_YELLOW	=	8
+//-- TEXT_GREN_BLUE	=	9
+//-- TEXT_GRAY		=	10
+//-- TEXT_PINK2		=	11
+//-- TEXT_PURPLE	=	12
+//-- TEXT_ORANGE	=	13
+//-- TEXT_WHITE		=	14
+//-- DeepPink1		=	15 (255 20 147)
+//-- RoyalBlue1		=	16 (72 118 255)
+//-- SlateBlue1		=	17 (131 111 255)
+//-- Azure2		=	18 (224 238 238)
+//-- DarkSlateGray1	=	19 (151 255 255)
+//-- SlateGray1		=	20 (198 226 255)
+//-- MistyRose1		=	21 (255 228 225)
+//-- LightSlateBlue	=	22 (132 112 255)
+//-- DeepSkyBlue1	=	23 (0 191 255)
+//-- Turquoise1		=	24 (0 245 255)
+//====================================================================
+//--Item	Name			   Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+51  	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6      -1      -1      -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+53  	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+106  	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+1049	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+2078	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+2081	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+2609	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+2610	"[Bonus]Vũ Khí Rồng"	8        1	     4	      2      6	     -1      -1	  -1       -1      -1      -1      -1      -1      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+//====================================================================
+//--Item	Name			   Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+// Set Hỏa Long
+//3585	"Trang Bị Thần Thoại"   8	      10     4      11      4	      12	  4	   13   4	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//4097	"Trang Bị Thần Thoại"   8	      10     4      11      4	      12	  4	   13   4	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//4609	"Trang Bị Thần Thoại"   8	      10     4      11      4	      12	  4	   13   4	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//5121	"Trang Bị Thần Thoại"   8	      10     4      11      4	      12	  4	   13   4	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//5633	"Trang Bị Thần Thoại"   8	      10     4      11      4	      12	  4	   13   4	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+//====================================================================
+//--Item	Name			   Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+// Cánh Thiên Sứ Cấp 3         
+//6181	"Cánh Rồng"	           8	      10     6      11      6	      12	  6	   13   6	      50	      7	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+
+
+
+//====================================================================
+//--Item	Name			    Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+6693	"Chế Tạo Sói Hoàng Kim"	  6	      100    7      101     7	      102	  7	   103  8	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+
+//====================================================================
+//--Item	Name			   Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+// Sách Thuộc Tính
+7618	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7619	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7620	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7621	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7622	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7623	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7624	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+//====================================================================
+//--Item	Name			   Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+// Phụ Kiện
+7627	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7628	"Shift + Chuột Phải Để Sử Dụng"	     7	       -1	  -1	      -1           -1	      -1	      -1	  -1       -1	      -1	      -1	      -1	      -1	  -1       -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+//====================================================================
+// Mix Item 2.5
+//--Item	Name			              Color	  Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+7568  	"Chế Tạo Áo Choàng Tử Thần(2.5)"	8     150	    4	    151	    4       152	    4       153     4       501	    0       500      7      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7569  	"Chế Tạo Cánh Hỗn Nguyên(2.5)"  	8     150	    4	    151	    4	    152	    4       154     4       501	    0       500      7      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7570  	"Chế Tạo Cánh Ma Thuật(2.5)"    	8     150	    4	    151	    4	    152	    4       155     4       501	    0       500      7      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7571	"Chế Tạo Cánh Hỏa Thần(2.5)"    	8     150	    4	    151	    4	    152	    4       156     4       501	    0       500      7      -1      -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//====================================================================
+// Mix Item 4
+//--Item	Name			   Color Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+7573  	"Chế Tạo Cánh Cấp 4"	8     157	    4	    158	    4       159	    4       160     4       161	    4   162      4      501     0	    500     7	     -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7574  	"Chế Tạo Cánh Cấp 4"  	8     157	    4	    158	    4	    159	    4       160     4       161	    4   162      4      501     0	    500     7	     -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//====================================================================
+// Mix Vũ Khí Rồng
+//--Item	Name			   Color Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+7578  	"Chế Tạo Vũ Khí Rồng"	8     163	    4	    164	    4       165	    4       166     4       167	    4   168      4      501     0	    500     7	     -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+7582  	"Chế Tạo Vũ Khí Rồng"  	8     163	    4	    164	    4	    165	    4       166     4       167	    4   168      4      501     0	    500     7	     -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+
+end

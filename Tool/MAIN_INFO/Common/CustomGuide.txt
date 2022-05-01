@@ -1,0 +1,23 @@
+// Add info commands in custom menu
+// Colors:
+// 1 - Gold
+// 2 - White
+// 3 - Orange
+// 4 - Red
+// 5 - Green
+// 6 - Yellow
+// 7 - Purple
+/////////////////////////////////////////////////////////////////////////////////////////
+//	#ID	#Color	#CommandInfo 		#CommandDescription			 										
+0	1	"Thỏ Ngọc"			"Hướng dẫn 1"				
+1	1	"Năm Mới"			"Hướng dẫn 2"
+2	2	"Mùa Hè"			"Hướng dẫn 3"
+3	2	"Boss Vàng"			"Hướng dẫn 4"
+4	3	"MiniBoss"			"Hướng dẫn 5"
+5	3	"Boss"			    "Hướng dẫn 6"
+6	4	"Nhiệm vụ"			"Hướng dẫn 7"
+7	4	"Hướng dẫn 8"		"Hướng dẫn 8"
+8	5	"Hướng dẫn 9"		"Hướng dẫn 9"
+9	6	"Hướng dẫn 10"		"Hướng dẫn 10"
+10	7	"Hướng dẫn 11"		"Hướng dẫn 11"
+end

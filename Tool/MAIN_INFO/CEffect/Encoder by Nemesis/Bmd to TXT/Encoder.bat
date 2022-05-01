@@ -1,0 +1,10 @@
+Encoder.exe CEffect.bmd CEffect.txt
+Encoder.exe CAnimationItem.bmd CAnimationItem.txt
+Encoder.exe CMapRenderMesh.bmd CMapRenderMesh.txt
+Encoder.exe CMapEffect.bmd CMapEffect.txt
+Encoder.exe CSetEffect.bmd CSetEffect.txt
+Encoder.exe CMapRenderMesh.bmd CMapRenderMesh.txt
+Encoder.exe CMapEffect.bmd CMapEffect.txt
+Encoder.exe CPetEffect.bmd CPetEffect.txt
+Encoder.exe CPetRenderMesh.bmd CPetRenderMesh.txt
+Encoder.exe CEffectRenderMesh.bmd CEffectRenderMesh.txt

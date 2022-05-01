@@ -1,0 +1,18 @@
+0
+//---------------------------------------------------------------------------------------------------------------------------------------------------------//
+//RenderEffect 2 = Solido | RenderEffect 66 = Transparente | RenderEffect 70 = Glow                                                                        //
+//EffectType -1 = Sin Efecto | EffectType 0 = Animacion en X | EffectType 1 = Animacion en Y                                                               // 
+//EffectType 2 = Animacion reversa en X | EffectType 3 = Animacion Reversa en Y | EffectType 4 = Animacion en Frame 4x4                                    //
+//TimeEffectType = Velocidad de animacion en "EffectType" | TimeTextureID = Velocidad de animacion en "TextureID" (Efecto Render)                          //
+//LevelGlow = El Brillo que aparece al Subir de nivel con Bless/Soul                                                                                       //
+//---------------------------------------------------------------------------------------------------------------------------------------------------------//
+//	Type	Index	Red	Green	Blue	GroupMesh	RenderEffect	EffectType	TimeEffectType	TextureID	TimeTextureID	LevelGlow  //
+//---------------------------------------------------------------------------------------------------------------------------------------------------------//
+//Blessed Divine Sword	
+	0 	51 	1.0 	1.0 	1.0 	0 		2 		-1		1.0 		-1		0.0		1	//Modelo Solido+Level Glow
+	0 	51 	1.0	1.0	1.0	0		66		-1		1.0		532768		4.0		1	//Modelo Transparencia+Efecto Render+Level Glow
+	0 	51 	1.0	1.0	1.0	1		2		-1		1.0		-1		0.0		1	//Modelo Solido+Level Glow
+	0 	51 	1.0	1.0	1.0	3		2		-1		1.0		-1		0.0		0	//Modelo Solido+Level Glow
+	0 	51 	0.7	0.9	1.0	2		66		0		1.0		-1		0.0		0	//Modelo Transparencia+Efecto Desplazamiento+Level Glow
+	0 	51 	0.2	0.2	1.0	3		70		-1		1.0		-1		0.0		0	//Modelo Glow+Sin Level Glow	
+end

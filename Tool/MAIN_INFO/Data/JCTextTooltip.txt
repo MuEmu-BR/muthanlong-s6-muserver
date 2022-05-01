@@ -1,0 +1,55 @@
+//-- Index	Text
+1		"Tăng sát thương + 100"
+2		"Kích Hoạt Hiệu Ứng Rồng Thần trên người!"
+
+3		"Opcion de Exp 4%"
+4		"Opcion de Vulnerabilidad 4%"
+5		"Opcion de Torbellino 4%"
+6		"Opcion de Attack 10%"
+7		"Incrementa 10% de vida"
+8		"Incrementa 10% de vida"
+9	     "Incrementa 10% de vida"
+
+10		"Tăng sát thương + 100%"
+11		"Tăng thể lực + 10000"
+12		"Tăng phòng thủ + 10"
+13		"Loại bỏ phòng thủ + 10%"
+
+50		"Kích Hoạt Cấp độ +15 Full Option"
+
+100		"Linh hồn Sói Tinh"		
+101		"Sói Tinh - Tấn Công"	
+102		"Sói Tinh - Phòng Thủ"	
+103		"Tỷ lệ thành công 50%"	
+
+// Mix Cánh 2.5
+150		"1.Cánh cấp 2 + 4 Op 4"		
+151		"1.Ngọc Hỗn Nguyên"	
+152		"1.Ngọc Sáng Tạo"	
+// Mix Cánh 2.5
+153		"1.Xương Thần Chết"     	
+154		"1.Da Quỷ Vương"        	
+155		"1.Lông Vũ Phượng Hoàng"	
+156		"1.Linh Hồn Dơi Lửa"    	
+
+// Mix Cánh 4
+157		"1.Ngọn Lửa Hoàng Kim" 	
+158		"1.Lông Vũ Hoàng Kim"  
+159		"1.Cụm Ngọc Sáng Tạo[30]"	
+160		"1.Cụm Ngọc Hỗn Nguyên[30]"		
+161		"1.Cụm Ngọc Tâm Linh[30]"		
+162		"1.Cụm Ngọc Ước Nguyện[30]"		
+
+// Mix Vũ Khí Rồng
+163		"1.Búa Truyền Thiết" 	
+164		"1.Sừng Thức Tỉnh"  
+165		"1.Cụm Ngọc Sáng Tạo[30]"	
+166		"1.Cụm Ngọc Hỗn Nguyên[30]"		
+167		"1.Cụm Ngọc Tâm Linh[30]"		
+168		"1.Cụm Ngọc Ước Nguyện[30]"	
+
+
+500		"Tỷ lệ thành công 50%"	
+501		"                    "    	
+
+endif

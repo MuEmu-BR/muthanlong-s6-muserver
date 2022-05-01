@@ -1,0 +1,33 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+/////////////////////////////////////////////////////////////////////////////////////////
+//	#ID	#Event Name
+	//Event		 	                            // Phần Thưởng
+	0	"[Event] Huyết Lâu:"                 "Cấp độ 8, Kill Quái nhận Ngọc" 
+	1	"[Event] Quảng Trường Quỷ"           "Cấp độ 7, Kill Quái nhận Ngọc"
+	2	"[Event] Hỗn Nguyên Lâu"             "Đồ Thần, Ngọc"
+	3	"[Tổ Đội] Team vs Team"              "WCoin, Ngọc"
+	4	"[SkyEvent] Thiên Giới"              "Đồ 380, WCoinC"
+	5	"[Event] Medusa"                     "Đồ 400, WCoinC"
+	6	"[Event] Công Thành Chiến"           "WCoinC, Điểm Guild"
+	7	"[Tổ Đội] Leo Tháp"                  "Ngọc Custom"
+	8	"[Hội Viên] Boss Guild"              "WCoinC, Đồ Hiếm"
+	9	"[Chiến Trường] Tranh Hùng"          "WCoinC,Ngọc"
+	
+	10	"[Boss] Rồng Đỏ"                     "Cụm ngọc các loại"
+	11	"[Boss] Hoàng Kim"                   "Box,1,2,3,4,5"
+	12	"[Boss] Binh đoàn phù thủy"          "Nhẫn,Ngọc các loại"
+	13	"[Tiêu Diệt] Junie"                  "Ngọc các loại"
+	14	"[Tiêu Diệt] Thỏ Ngọc"               "Ngọc các loại"
+	15	"[Tiêu Diệt] Hỏa Diệm Quỷ"           "Ngọc các loại, Đồ Hoàn Hảo"
+	16	"[Tiêu Diệt] Santa"                  "Ngọc các loại"
+	
+	17	"[Event] Guild vs Guild"             "WCoinC"
+	18	"[Guild] Chiếm Thành"                "WCoinC"
+
+	19	"[Quân Đoàn] Tháp Boss"              "WCoinC, Đồ Hiếm"
+
+	20	"[Event] Selupan"                    "WCoinC, Đồ Hiếm"
+	
+end

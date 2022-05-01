@@ -1,0 +1,73 @@
+// ----------------------------------------------------------------------------------
+//SetIndex	Red	Green	Blue
+// ---------------------------------------------------------------------------------- 
+0    0.90   0.39   0.10    //Set Bronze
+1    0.69   0.20   0.04    //Set Dragon
+2    0.90   0.39   0.00    //Set Pad
+3    0.00   0.20   0.80    //Set Legendary
+4    0.58   0.58   0.65    //Set Bone
+5    0.90   0.39   0.00    //Set Leather
+6    0.31   0.64   0.39    //Set Scale
+7    0.84   0.63   0.35    //Set Sphinx
+8    0.90   0.39   0.09    //Set Brass
+9    0.24   0.25   0.79    //Set Plate
+10   0.90   0.39   0.00    //Set Vine
+11   0.60   0.40   0.60    //Set Silk
+12   0.21   0.30   0.76    //Set Wind
+13   0.46   0.77   0.46    //Set Spirit
+14   0.58   0.58   0.65    //Set Guardian
+15   0.39   0.39   0.62    //Set Storm Crow
+16   0.69   0.54   0.40    //Set Black Dragon
+17   0.49   0.57   0.82    //Set Phoenix
+18   0.50   0.30   0.59    //Set Grand Soul
+19   0.50   0.30   0.59    //Set Divine
+20   0.39   0.31   0.54    //Set Thunder
+21   0.73   0.33   0.12    //Set Great
+22   0.65   0.43   0.31    //Set Dark Soul
+23   0.34   0.26   0.64    //Set HUrricane
+24   0.79   0.23   0.23   //Set Red Spirit
+25   0.30   0.39   0.75    //Set Light Plate
+26   0.56   0.77   0.56    //Set Adamantine
+27   0.69   0.54   0.40    //Set Dark Steel
+28   0.30   0.39   0.75    //Set Dark Master
+29   0.74   0.54   0.23    //Set Dragon Knight
+30   0.54   0.41   0.67    //Set Venom Mist
+31   0.46   0.77   0.46    //Set Slypid Ray
+32   0.69   0.36   0.85    //Set Volcano
+33   0.87   0.83   0.49    //Set Sunlight
+34   0.69   0.54   0.40    //Set Ashcrow
+35   0.58   0.58   0.65    //Set Eclipse
+36   0.35   0.69   0.30    //Set Iris
+37   0.69   0.20   0.04    //Set Valiant
+38   0.67   0.63   0.24    //Set Glorius
+39   0.19   0.83   0.34    //Set Valiant Wind
+40   0.50   0.30   0.59    //Set Red Wing
+41   0.69   0.54   0.40    //Set Ancient
+42   0.90   0.38   0.98    //Set Black Rose
+43   0.50   0.30   0.59    //Set Aura
+44   0.69   0.36   0.85    //Set Lillium
+45   0.32   0.62   0.99    //Set Titan
+46   0.90   0.39   0.00    //Set Brave
+47   0.82   0.47   0.79    //Set Phantom
+48   0.69   0.20   0.04    //Set Destroyer
+49   0.98   0.51   0.64    //Set Seraphin
+50   0.19   0.63   0.34    //Set Faith
+51   0.98   0.36   0.26    //Set Royal
+52   0.68   0.68   0.85    //Set Hades
+53   0.90   0.38   0.98    //Set Queen
+59   0.98   0.36   0.26    //Set Sacred
+60   0.90   0.39   0.00    //Set Storm Hard
+61   0.79   0.64   0.50    //Set Piercing
+62   0.90   0.39   0.00    //Set Lucky Scale
+63   0.90   0.39   0.00    //Set Lucky Silk
+64   0.90   0.39   0.00    //Set Lucky Sphinx
+65   0.90   0.39   0.00    //Set Lucky Violent Wind
+66   0.90   0.39   0.00    //Set Lucky Adamantine
+67   0.90   0.39   0.00    //Set Lucky Dragon
+68   0.90   0.39   0.00    //Set Lucky Guardian
+69   0.90   0.39   0.00    //Set Lucky Legendary
+70   0.90   0.39   0.00    //Set Lucky Red Wing
+71   0.90   0.39   0.00    //Set Lucky Storm Crow
+72   0.90   0.39   0.00    //Set Lucky Storm Hard
+73   0.35   0.69   0.30    //Set Phoenix Soul
+end

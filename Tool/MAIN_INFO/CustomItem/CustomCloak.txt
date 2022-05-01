@@ -1,0 +1,19 @@
+//============================================================================
+// 				CUSTOM CLOAK SYSTEM
+//============================================================================
+// Agregar archivos en: [Data/Item]
+//============================================================================
+//	0 = Con Tira
+//	1 = Sin Tira
+//====================================================================================================================
+//ItemType     Mode 	 CloakName		       StripName			Descripcion
+//====================================================================================================================
+6294            1       "Item\\KF_Death_clka.tga" 	    "Item\\KF_Death_clkb.tga"		//Cloak of Death
+6302            1       "Item\\KF_darklordwing4de.tga"      "Item\\KF_darklordwing4dd.tga"	//Cloak of Dominator
+6304            0       "Item\\ragefighterwing4db.tga"      "Item\\ragefighterwing4da.tga"	//Cloak of Judgment
+6430		    0	    "Item\\KF_season_wing_periodc.tga"  "Item\\KF_season_wing_periodc.tga"	//Cloak of Wings of Power
+
+//6435            0	"Item\\CloakoflimiteNH02.tga"	    "Item\\CloakoflimiteNH02.tga"	//Cloak of Limit
+//6436            0	"Item\\WingGL3NG001.tga"	    "Item\\WingGL3NG001.tga"		//Cloak of Transcendence
+//6437            0	"Item\\US_growlancerwing4db.tga"    "Item\\US_growlancerwing4db.tga"	//Cloak of Isolation
+end

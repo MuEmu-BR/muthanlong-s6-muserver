@@ -1,0 +1,10 @@
+0
+//----------------------------------------------------------------------------------------------------------//
+//Type 2 = Textura Solida | Type 66 = Textura Con Transparencia | Type 70 = Textura Con Glow                //
+//Effect 0 = Sin Efecto | Eff 1 = Efecto en Vertical | Eff 2 = Efecto en Horizontal | Eff 3 = Efecto Frame  //
+//Hide 1 = Oculta el Objecto pero mantiene el efecto                                                        //
+//----------------------------------------------------------------------------------------------------------//
+//      Map      Object      Index      Type      ColorR      ColorG      ColorB      Effect      Hide      //
+//----------------------------------------------------------------------------------------------------------//
+
+end
